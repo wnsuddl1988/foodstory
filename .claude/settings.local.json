@@ -5,7 +5,10 @@
       "WebSearch",
       "WebFetch(domain:www.easyneasy.com)",
       "WebFetch(domain:www.cosmo.ph)",
-      "WebFetch(domain:www.connoisseurusveg.com)"
+      "WebFetch(domain:www.connoisseurusveg.com)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)"
     ]
   }
 }
