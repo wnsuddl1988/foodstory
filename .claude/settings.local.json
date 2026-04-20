@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:unsplash.com)",
+      "WebSearch",
+      "WebFetch(domain:www.easyneasy.com)",
+      "WebFetch(domain:www.cosmo.ph)",
+      "WebFetch(domain:www.connoisseurusveg.com)"
+    ]
+  }
+}

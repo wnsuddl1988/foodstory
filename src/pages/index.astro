@@ -1,16 +1,8 @@
 ---
-import { Image } from 'astro:assets';
-import { getCollection } from 'astro:content';
-
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
-import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
-
-const posts = (await getCollection('blog'))
-	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-	.slice(0, 6);
 ---
 
 <!doctype html>
@@ -33,6 +25,7 @@ const posts = (await getCollection('blog'))
 			.hero-bg {
 				position: absolute;
 				inset: 0;
+				background-image: url('https://images.pexels.com/photos/5971874/pexels-photo-5971874.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
 				background-size: cover;
 				background-position: center;
 				opacity: 0.38;
@@ -77,133 +70,104 @@ const posts = (await getCollection('blog'))
 				letter-spacing: 0.04em;
 				transition: opacity 0.15s;
 			}
-			.hero-btn:hover {
-				opacity: 0.85;
-				color: #111;
-			}
+			.hero-btn:hover { opacity: 0.85; color: #111; }
 
-			/* ── Categories ── */
-			.section {
+			/* ── About section ── */
+			.about {
 				max-width: 720px;
 				margin: 0 auto;
-				padding: 3.5em 1em 0;
+				padding: 4em 1em 5em;
 			}
-			.section-label {
-				font-size: 0.75em;
-				font-weight: 700;
-				letter-spacing: 0.15em;
-				text-transform: uppercase;
-				color: #aaa;
-				margin: 0 0 1.2em;
+			.about-intro {
+				font-size: 1.05em;
+				line-height: 1.9;
+				color: #444;
+				margin-bottom: 3em;
+				border-left: 3px solid #111;
+				padding-left: 1.2em;
 			}
-			.categories {
+			.topics {
 				display: grid;
-				grid-template-columns: repeat(4, 1fr);
-				gap: 0.7em;
-				margin-bottom: 3.5em;
+				grid-template-columns: repeat(2, 1fr);
+				gap: 1.5em;
+				margin-bottom: 3em;
 			}
-			.cat-card {
-				border: 1px solid #e0e0e0;
-				padding: 1.4em 0.8em;
-				text-align: center;
-				text-decoration: none;
-				color: #333;
-				transition: border-color 0.15s, box-shadow 0.15s;
+			.topic-item {
+				padding: 1.6em 1.4em;
+				border: 1px solid #e8e8e8;
 			}
-			.cat-card:hover {
-				border-color: #111;
-				box-shadow: 0 2px 8px rgba(0,0,0,0.07);
-				color: #111;
-			}
-			.cat-icon {
-				font-size: 1.6em;
+			.topic-icon {
+				font-size: 1.5em;
 				display: block;
 				margin-bottom: 0.5em;
 			}
-			.cat-name {
-				font-size: 0.85em;
-				font-weight: 600;
+			.topic-item h3 {
+				font-size: 0.95em;
+				font-weight: 700;
+				margin: 0 0 0.5em;
 				letter-spacing: -0.01em;
 			}
-
-			/* ── Posts ── */
-			.posts-list {
-				list-style: none;
+			.topic-item p {
+				font-size: 0.88em;
+				color: #777;
 				margin: 0;
+				line-height: 1.7;
+			}
+			.who-section h2 {
+				font-size: 1.1em;
+				font-weight: 700;
+				margin: 0 0 1em;
+				padding-bottom: 0.6em;
+				border-bottom: 2px solid #eee;
+			}
+			.who-list {
+				list-style: none;
 				padding: 0;
+				margin: 0;
 			}
-			.posts-list li {
-				border-bottom: 1px solid #eee;
-			}
-			.posts-list li:first-child {
-				border-top: 1px solid #eee;
-			}
-			.posts-list a {
+			.who-list li {
+				padding: 0.6em 0;
+				border-bottom: 1px solid #f5f5f5;
+				font-size: 0.95em;
+				color: #444;
 				display: flex;
 				align-items: center;
-				gap: 1.2em;
-				padding: 1em 0;
-				text-decoration: none;
-				color: inherit;
+				gap: 0.6em;
 			}
-			.posts-list a:hover .post-title {
-				text-decoration: underline;
-				text-underline-offset: 3px;
-			}
-			.post-thumb {
-				width: 72px;
-				height: 72px;
-				object-fit: cover;
-				flex-shrink: 0;
-			}
-			.post-thumb-placeholder {
-				width: 72px;
-				height: 72px;
-				flex-shrink: 0;
-				background: #f0f0f0;
-			}
-			.post-meta { flex: 1; min-width: 0; }
-			.post-title {
-				margin: 0 0 0.3em;
-				font-size: 1em;
-				font-weight: 600;
-				color: #222;
-				line-height: 1.4;
-			}
-			.post-date {
-				margin: 0;
-				font-size: 0.82em;
+			.who-list li::before {
+				content: '→';
 				color: #aaa;
+				font-size: 0.85em;
+				flex-shrink: 0;
 			}
-			.empty-notice {
-				padding: 2em 0;
-				color: #bbb;
-				font-size: 0.9em;
+			.cta-wrap {
+				margin-top: 2.5em;
+				text-align: center;
 			}
-			.view-all {
+			.cta-btn {
 				display: inline-block;
-				margin-top: 1.5em;
-				margin-bottom: 3em;
-				font-size: 0.88em;
+				padding: 0.85em 2.5em;
+				background: #111;
+				color: #fff;
 				font-weight: 700;
-				color: #111;
-				text-decoration: underline;
-				text-underline-offset: 3px;
-				letter-spacing: 0.01em;
+				font-size: 0.9em;
+				text-decoration: none;
+				letter-spacing: 0.04em;
+				transition: opacity 0.15s;
 			}
+			.cta-btn:hover { opacity: 0.75; color: #fff; }
 
 			@media (max-width: 600px) {
 				.hero-content h1 { font-size: 2.2em; }
-				.categories { grid-template-columns: repeat(2, 1fr); }
+				.topics { grid-template-columns: 1fr; }
 			}
 		</style>
 	</head>
 	<body>
 		<Header />
 
-		<!-- Hero -->
 		<div class="hero">
-			<div class="hero-bg" style="background-image: url('https://images.pexels.com/photos/5971874/pexels-photo-5971874.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')"></div>
+			<div class="hero-bg"></div>
 			<div class="hero-content">
 				<p class="hero-eyebrow">Food & Ingredient Guide</p>
 				<h1>식재료를<br/>제대로 알면<br/>밥상이 바뀝니다</h1>
@@ -212,54 +176,52 @@ const posts = (await getCollection('blog'))
 			</div>
 		</div>
 
-		<div class="section">
-			<!-- 카테고리 -->
-			<p class="section-label">주제별 보기</p>
-			<div class="categories">
-				<a href="/blog" class="cat-card">
-					<span class="cat-icon">🧊</span>
-					<span class="cat-name">보관법</span>
-				</a>
-				<a href="/blog" class="cat-card">
-					<span class="cat-icon">🌿</span>
-					<span class="cat-name">제철식재료</span>
-				</a>
-				<a href="/blog" class="cat-card">
-					<span class="cat-icon">🔪</span>
-					<span class="cat-name">손질법</span>
-				</a>
-				<a href="/blog" class="cat-card">
-					<span class="cat-icon">💊</span>
-					<span class="cat-name">효능·영양</span>
-				</a>
+		<div class="about">
+			<p class="about-intro">
+				마트에서 사온 채소가 며칠 만에 시들어버린 경험, 한 번쯤 있으시죠?
+				냉장고에 뭔가 있는 것 같은데 뭘 해 먹어야 할지 모르겠는 막막한 순간도요.
+				<strong>식재료 이야기</strong>는 바로 그 고민에서 시작했습니다.
+				요리를 잘하는 것만큼이나 중요한 게 식재료를 제대로 다루는 것입니다.
+				어떻게 보관하느냐, 어떻게 손질하느냐, 제철 식재료를 언제 먹느냐에 따라
+				같은 돈으로 훨씬 더 맛있고 영양가 높은 밥상을 차릴 수 있습니다.
+			</p>
+
+			<div class="topics">
+				<div class="topic-item">
+					<span class="topic-icon">🧊</span>
+					<h3>식재료 보관법</h3>
+					<p>냉장·냉동·실온 보관 기준부터 식재료별 최적 보관 방법까지. 버려지는 식재료를 줄이는 습관을 만들어드립니다.</p>
+				</div>
+				<div class="topic-item">
+					<span class="topic-icon">🌿</span>
+					<h3>제철 식재료</h3>
+					<p>봄·여름·가을·겨울, 계절마다 제철인 식재료를 소개합니다. 맛도 좋고 가격도 합리적인 제철 식재료를 활용하세요.</p>
+				</div>
+				<div class="topic-item">
+					<span class="topic-icon">🔪</span>
+					<h3>손질법</h3>
+					<p>제대로 손질하면 버리는 부분도 줄고 맛도 달라집니다. 몰랐던 식재료 손질 팁을 알기 쉽게 알려드립니다.</p>
+				</div>
+				<div class="topic-item">
+					<span class="topic-icon">💊</span>
+					<h3>효능·영양</h3>
+					<p>어떤 식재료가 몸에 어떻게 좋은지, 어떤 조합이 영양 흡수를 높이는지. 알고 먹으면 밥상이 달라집니다.</p>
+				</div>
 			</div>
 
-			<!-- 최근 글 -->
-			<p class="section-label">최근 글</p>
-			{posts.length === 0 ? (
-				<p class="empty-notice">아직 작성된 글이 없습니다.</p>
-			) : (
-				<>
-					<ul class="posts-list">
-						{posts.map((post) => (
-							<li>
-								<a href={`/blog/${post.id}/`}>
-									{post.data.heroImage ? (
-										<Image class="post-thumb" src={post.data.heroImage} width={72} height={72} alt={post.data.title} />
-									) : (
-										<div class="post-thumb-placeholder" />
-									)}
-									<div class="post-meta">
-										<p class="post-title">{post.data.title}</p>
-										<p class="post-date"><FormattedDate date={post.data.pubDate} /></p>
-									</div>
-								</a>
-							</li>
-						))}
-					</ul>
-					<a href="/blog" class="view-all">전체 글 보기 →</a>
-				</>
-			)}
+			<div class="who-section">
+				<h2>이런 분들께 도움이 됩니다</h2>
+				<ul class="who-list">
+					<li>자주 식재료를 버려서 아깝다고 느끼시는 분</li>
+					<li>제철 재료로 건강하게 먹고 싶은 분</li>
+					<li>냉장고 관리를 좀 더 체계적으로 하고 싶은 분</li>
+					<li>식재료 하나로 다양하게 활용하는 방법이 궁금한 분</li>
+				</ul>
+			</div>
+
+			<div class="cta-wrap">
+				<a href="/blog" class="cta-btn">글 보러가기 →</a>
+			</div>
 		</div>
 
 		<Footer />
