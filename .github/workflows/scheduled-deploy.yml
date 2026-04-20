@@ -1,0 +1,16 @@
+name: Scheduled Cloudflare Deploy
+
+on:
+  schedule:
+    # KST 기준 매 2시간마다 빌드 (09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00, 23:00 KST)
+    # GitHub Actions cron은 UTC 기준 → KST = UTC+9 → UTC 00:00, 02:00, 04:00, ...
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # 수동 실행도 가능
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Cloudflare Pages Build
+        run: |
+          curl -X POST "${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}"
