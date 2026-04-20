@@ -1,7 +1,7 @@
 ---
 title: '4월 제철 식재료 총정리 — 지금 먹어야 가장 맛있는 봄 식재료'
 description: '4월에 가장 맛있는 제철 식재료를 총정리했습니다. 봄나물부터 봄 해산물, 봄 과일까지 지금이 제철인 식재료와 고르는 법을 알아보세요.'
-pubDate: '2026-04-20T15:00:00'
+pubDate: '2pubDate: 2026-04-20T15:00:00+09:00'
 heroImage: 'https://images.pexels.com/photos/7782981/pexels-photo-7782981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
