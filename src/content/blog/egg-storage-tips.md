@@ -1,7 +1,7 @@
 ---
 title: '계란 보관법 완벽 정리 — 냉장 vs 실온, 씻으면 안 되는 이유'
 description: '계란을 냉장고 문 쪽에 보관하고 계신가요? 계란 보관의 흔한 오해와 올바른 냉장 보관법, 신선도 확인 방법까지 정리했습니다.'
-pubDate: 'pubDate: 2026-04-20T17:00:00+09:00'
+pubDate: 2026-04-20T17:00:00+09:00'
 heroImage: 'https://images.pexels.com/photos/6287569/pexels-photo-6287569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
