@@ -1,7 +1,7 @@
 ---
 title: '고기 보관법 완벽 정리 — 소고기·돼지고기·닭고기 냉장·냉동 보관'
 description: '고기를 잘못 보관하면 하루 만에도 상합니다. 소고기·돼지고기·닭고기 종류별 냉장·냉동 보관법과 올바른 해동 방법까지 한 번에 정리했습니다.'
-pubDate: '2026-04-20T23:00:00'
+pubDate: 'pubDate: 2026-04-20T23:00:00+09:00'
 heroImage: 'https://images.pexels.com/photos/618773/pexels-photo-618773.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
