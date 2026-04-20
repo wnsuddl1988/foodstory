@@ -1,7 +1,7 @@
 ---
 title: '두부 보관법 완벽 정리 — 개봉 후에도 오래 신선하게 유지하는 방법'
 description: '두부는 개봉 후 하루 이틀이면 쉽게 상합니다. 물에 담가 보관하는 올바른 방법부터 냉동 보관법, 종류별 보관 팁까지 정리했습니다.'
-pubDate: 'pubDate: 2026-04-20T19:00:00+09:00'
+pubDate: 2026-04-20T19:00:00+09:00'
 heroImage: 'https://images.pexels.com/photos/4518577/pexels-photo-4518577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
