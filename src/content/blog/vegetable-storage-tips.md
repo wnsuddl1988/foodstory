@@ -1,7 +1,7 @@
 ---
 title: '냉장고 채소 보관법 — 버리는 식재료 확 줄이는 방법'
 description: '채소를 냉장고에 잘못 보관하면 3일도 못 가 시들어버립니다. 채소별 올바른 냉장 보관법과 오래 신선하게 유지하는 실전 팁을 정리했습니다.'
-pubDate: '2026-04-20T13:00:00'
+pubDate: 'pubDate: 2026-04-20T13:00:00+09:00'
 heroImage: 'https://images.pexels.com/photos/4443442/pexels-photo-4443442.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
