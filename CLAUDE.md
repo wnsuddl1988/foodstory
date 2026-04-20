@@ -50,7 +50,7 @@ Astro 6 기반 정적 블로그. 파일 기반 라우팅과 Content Collections 
 ---
 title: '제목 (SEO 키워드 포함, 30자 내외)'
 description: '메타 디스크립션 (검색결과에 표시될 요약, 120자 내외, 핵심 키워드 포함)'
-pubDate: 'YYYY-MM-DD'
+pubDate: 'YYYY-MM-DDTHH:MM:SS+09:00'
 heroImage: 'https://images.pexels.com/photos/[ID]/pexels-photo-[ID].jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
@@ -58,7 +58,8 @@ draft: false
 
 - `heroImage`: Pexels/Unsplash 외부 URL 사용 (깔끔하고 주제에 맞는 사진)
 - `draft: true` 설정 시 목록·홈에 노출되지 않음 (예약발행용)
-- `pubDate`를 미래 날짜로 설정하면 그 날 이후 빌드 시점부터 발행됨
+- **`pubDate`는 반드시 `+09:00` 한국시간(KST) 오프셋 포함** — Cloudflare 빌드 서버는 UTC 기준이라 타임존 없이 쓰면 KST보다 9시간 늦게 노출됨
+- `pubDate`를 미래 날짜로 설정하면 그 날 이후 사이트 빌드 시점부터 발행됨
 
 **글 작성 규칙:**
 1. **분량:** 최소 5,000자 이상
@@ -82,9 +83,11 @@ draft: false
    - 도입부(공감) → H2/H3 본론 → 본문 이미지 1개 → 팁/주의사항 → 마무리
 
 ### 예약발행 방법
-- 즉시 발행: `draft: false` + `pubDate`를 오늘 날짜
-- 예약발행: `draft: false` + `pubDate`를 미래 날짜 → 해당 날짜 이후 사이트 빌드 시 자동 노출
+- 즉시 발행: `draft: false` + `pubDate: 'YYYY-MM-DDTHH:MM:SS+09:00'` (현재 시각)
+- 예약발행: `draft: false` + `pubDate: 'YYYY-MM-DDTHH:MM:SS+09:00'` (미래 시각) → git push 후 Cloudflare 빌드 시점에 pubDate가 지난 글만 노출
 - 임시저장: `draft: true` → 빌드해도 목록에 나타나지 않음
+
+> **주의:** Cloudflare는 정적 빌드 기반이라 "자동 예약 발행"이 아님. git push가 트리거가 되어 빌드가 일어나고, 그 시점에 pubDate가 지난 글만 노출됨. 따라서 특정 시각에 글을 노출하려면 그 시각 이후에 push해야 함.
 
 ### 애드센스 승인 유의사항
 - 이미지보다 텍스트(고품질 정보) 비중이 높아야 함
