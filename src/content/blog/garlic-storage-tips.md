@@ -1,7 +1,7 @@
 ---
 title: '마늘 보관법 총정리 — 통마늘·깐마늘·다진마늘 오래 신선하게 유지하는 방법'
 description: '마늘은 형태에 따라 보관 방법이 완전히 다릅니다. 통마늘 실온 보관법부터 깐마늘·다진마늘 냉동 보관법까지, 마늘을 오래 쓰는 방법을 정리했습니다.'
-pubDate: 'pubDate: 2026-04-20T21:00:00+09:00'
+pubDate: 2026-04-20T21:00:00+09:00'
 heroImage: 'https://images.pexels.com/photos/4022126/pexels-photo-4022126.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
