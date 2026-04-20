@@ -1,49 +1,267 @@
 ---
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+const posts = (await getCollection('blog'))
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.slice(0, 6);
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="ko">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			/* ── Hero ── */
+			.hero {
+				position: relative;
+				width: 100%;
+				min-height: 520px;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				text-align: center;
+				overflow: hidden;
+				background: #111;
+			}
+			.hero-bg {
+				position: absolute;
+				inset: 0;
+				background-size: cover;
+				background-position: center;
+				opacity: 0.38;
+			}
+			.hero-content {
+				position: relative;
+				z-index: 1;
+				color: #fff;
+				padding: 4em 1.5em;
+				max-width: 640px;
+			}
+			.hero-eyebrow {
+				font-size: 0.78em;
+				font-weight: 700;
+				letter-spacing: 0.2em;
+				text-transform: uppercase;
+				color: rgba(255,255,255,0.6);
+				margin: 0 0 0.8em;
+			}
+			.hero-content h1 {
+				font-size: 3.2em;
+				font-weight: 800;
+				letter-spacing: -0.03em;
+				margin: 0 0 0.5em;
+				color: #fff;
+				line-height: 1.15;
+			}
+			.hero-content p {
+				font-size: 1.05em;
+				color: rgba(255,255,255,0.75);
+				margin: 0 0 2em;
+				line-height: 1.8;
+			}
+			.hero-btn {
+				display: inline-block;
+				padding: 0.8em 2.2em;
+				background: #fff;
+				color: #111;
+				font-weight: 700;
+				font-size: 0.9em;
+				text-decoration: none;
+				letter-spacing: 0.04em;
+				transition: opacity 0.15s;
+			}
+			.hero-btn:hover {
+				opacity: 0.85;
+				color: #111;
+			}
+
+			/* ── Categories ── */
+			.section {
+				max-width: 720px;
+				margin: 0 auto;
+				padding: 3.5em 1em 0;
+			}
+			.section-label {
+				font-size: 0.75em;
+				font-weight: 700;
+				letter-spacing: 0.15em;
+				text-transform: uppercase;
+				color: #aaa;
+				margin: 0 0 1.2em;
+			}
+			.categories {
+				display: grid;
+				grid-template-columns: repeat(4, 1fr);
+				gap: 0.7em;
+				margin-bottom: 3.5em;
+			}
+			.cat-card {
+				border: 1px solid #e0e0e0;
+				padding: 1.4em 0.8em;
+				text-align: center;
+				text-decoration: none;
+				color: #333;
+				transition: border-color 0.15s, box-shadow 0.15s;
+			}
+			.cat-card:hover {
+				border-color: #111;
+				box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+				color: #111;
+			}
+			.cat-icon {
+				font-size: 1.6em;
+				display: block;
+				margin-bottom: 0.5em;
+			}
+			.cat-name {
+				font-size: 0.85em;
+				font-weight: 600;
+				letter-spacing: -0.01em;
+			}
+
+			/* ── Posts ── */
+			.posts-list {
+				list-style: none;
+				margin: 0;
+				padding: 0;
+			}
+			.posts-list li {
+				border-bottom: 1px solid #eee;
+			}
+			.posts-list li:first-child {
+				border-top: 1px solid #eee;
+			}
+			.posts-list a {
+				display: flex;
+				align-items: center;
+				gap: 1.2em;
+				padding: 1em 0;
+				text-decoration: none;
+				color: inherit;
+			}
+			.posts-list a:hover .post-title {
+				text-decoration: underline;
+				text-underline-offset: 3px;
+			}
+			.post-thumb {
+				width: 72px;
+				height: 72px;
+				object-fit: cover;
+				flex-shrink: 0;
+			}
+			.post-thumb-placeholder {
+				width: 72px;
+				height: 72px;
+				flex-shrink: 0;
+				background: #f0f0f0;
+			}
+			.post-meta { flex: 1; min-width: 0; }
+			.post-title {
+				margin: 0 0 0.3em;
+				font-size: 1em;
+				font-weight: 600;
+				color: #222;
+				line-height: 1.4;
+			}
+			.post-date {
+				margin: 0;
+				font-size: 0.82em;
+				color: #aaa;
+			}
+			.empty-notice {
+				padding: 2em 0;
+				color: #bbb;
+				font-size: 0.9em;
+			}
+			.view-all {
+				display: inline-block;
+				margin-top: 1.5em;
+				margin-bottom: 3em;
+				font-size: 0.88em;
+				font-weight: 700;
+				color: #111;
+				text-decoration: underline;
+				text-underline-offset: 3px;
+				letter-spacing: 0.01em;
+			}
+
+			@media (max-width: 600px) {
+				.hero-content h1 { font-size: 2.2em; }
+				.categories { grid-template-columns: repeat(2, 1fr); }
+			}
+		</style>
 	</head>
 	<body>
 		<Header />
-		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This template
-				serves as a lightweight, minimally-styled starting point for anyone looking to build a personal
-				website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
-		</main>
+
+		<!-- Hero -->
+		<div class="hero">
+			<div class="hero-bg" style="background-image: url('https://images.pexels.com/photos/5971874/pexels-photo-5971874.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')"></div>
+			<div class="hero-content">
+				<p class="hero-eyebrow">Food & Ingredient Guide</p>
+				<h1>식재료를<br/>제대로 알면<br/>밥상이 바뀝니다</h1>
+				<p>보관법 · 제철식재료 · 손질법 · 효능까지<br/>우리 식탁을 더 풍요롭게</p>
+				<a href="/blog" class="hero-btn">글 보러가기</a>
+			</div>
+		</div>
+
+		<div class="section">
+			<!-- 카테고리 -->
+			<p class="section-label">주제별 보기</p>
+			<div class="categories">
+				<a href="/blog" class="cat-card">
+					<span class="cat-icon">🧊</span>
+					<span class="cat-name">보관법</span>
+				</a>
+				<a href="/blog" class="cat-card">
+					<span class="cat-icon">🌿</span>
+					<span class="cat-name">제철식재료</span>
+				</a>
+				<a href="/blog" class="cat-card">
+					<span class="cat-icon">🔪</span>
+					<span class="cat-name">손질법</span>
+				</a>
+				<a href="/blog" class="cat-card">
+					<span class="cat-icon">💊</span>
+					<span class="cat-name">효능·영양</span>
+				</a>
+			</div>
+
+			<!-- 최근 글 -->
+			<p class="section-label">최근 글</p>
+			{posts.length === 0 ? (
+				<p class="empty-notice">아직 작성된 글이 없습니다.</p>
+			) : (
+				<>
+					<ul class="posts-list">
+						{posts.map((post) => (
+							<li>
+								<a href={`/blog/${post.id}/`}>
+									{post.data.heroImage ? (
+										<Image class="post-thumb" src={post.data.heroImage} width={72} height={72} alt={post.data.title} />
+									) : (
+										<div class="post-thumb-placeholder" />
+									)}
+									<div class="post-meta">
+										<p class="post-title">{post.data.title}</p>
+										<p class="post-date"><FormattedDate date={post.data.pubDate} /></p>
+									</div>
+								</a>
+							</li>
+						))}
+					</ul>
+					<a href="/blog" class="view-all">전체 글 보기 →</a>
+				</>
+			)}
+		</div>
+
 		<Footer />
 	</body>
 </html>
