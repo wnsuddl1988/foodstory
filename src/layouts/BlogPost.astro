@@ -38,10 +38,12 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				color: rgb(var(--gray-dark));
 			}
 			.prose img {
+				display: block;
+				max-width: 560px;
 				width: 100%;
 				height: auto;
 				border-radius: 6px;
-				margin: 1.5em 0;
+				margin: 2em auto;
 			}
 			.title {
 				margin-bottom: 1em;
