@@ -2,7 +2,7 @@
 title: '건나물 보관법 — 고사리·취나물·시래기 오래 맛있게 두는 방법'
 description: '건나물(고사리·취나물·무청 시래기·고춧잎 등)의 올바른 보관법을 정리했습니다. 건나물이 상하는 원인, 불리는 방법, 냉동 보관법까지 총정리.'
 pubDate: '2026-04-27T15:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/6107787/pexels-photo-6107787.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/26823080/pexels-photo-26823080.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -73,7 +73,6 @@ draft: false
 - 냉동: 6개월~1년
 - 불리기: 찬물에 2~4시간 불린 후 사용
 
-![건나물 종류들](https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 건나물 올바르게 불리는 방법
 

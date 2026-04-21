@@ -2,7 +2,7 @@
 title: '허브 보관법 — 바질·파슬리·민트 신선하게 오래 두는 방법'
 description: '생허브가 금방 시드는 이유와 올바른 보관법을 정리했습니다. 바질·파슬리·민트·로즈마리 등 허브별 냉장 보관법과 냉동·건조법까지 총정리.'
 pubDate: '2026-04-24T21:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/906150/pexels-photo-906150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/6102658/pexels-photo-6102658.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -96,7 +96,7 @@ draft: false
 
 **4~5일** 유지 가능해요.
 
-![신선한 허브들](https://images.pexels.com/photos/1352199/pexels-photo-1352199.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![신선한 파슬리와 딜 — 허브는 줄기를 물에 꽂거나 키친타월로 감싸 냉장 보관하면 오래 간다](https://images.pexels.com/photos/12335511/pexels-photo-12335511.jpeg?auto=compress&cs=tinysrgb&w=800&q=80)
 
 ## 로즈마리·타임·세이지 보관법
 

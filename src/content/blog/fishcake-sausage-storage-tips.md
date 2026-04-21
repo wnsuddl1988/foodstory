@@ -2,7 +2,7 @@
 title: '어묵·소시지 보관법 — 개봉 후 신선하게 오래 두는 방법'
 description: '어묵과 소시지 개봉 후 보관법을 정리했습니다. 냉장 보관 기간, 냉동 방법, 어묵 종류별 보관 팁과 상한 것 확인하는 방법까지 총정리.'
 pubDate: '2026-04-24T09:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/9609847/pexels-photo-9609847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/8995164/pexels-photo-8995164.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -72,7 +72,6 @@ draft: false
 
 냉동 소시지는 **약 1~2개월** 보관 가능해요. 사용할 때는 냉장에서 천천히 해동하거나, 끓는 물에 넣어 직접 데워도 돼요.
 
-![다양한 어묵](https://images.pexels.com/photos/5006006/pexels-photo-5006006.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 어묵·소시지 상한 것 확인하는 방법
 

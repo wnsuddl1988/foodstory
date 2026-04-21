@@ -2,7 +2,7 @@
 title: '콩나물·숙주나물 보관법 — 물에 담가야 신선하게 오래 간다'
 description: '콩나물과 숙주나물은 하루만 잘못 두면 시큼한 냄새가 납니다. 물에 담가 보관하는 올바른 방법, 냉동 보관법, 신선도 확인 방법을 정리했습니다.'
 pubDate: '2026-04-22T13:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/5947081/pexels-photo-5947081.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/8956732/pexels-photo-8956732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

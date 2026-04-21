@@ -2,7 +2,7 @@
 title: '식재료 세척법 총정리 — 채소·과일 농약 제대로 씻는 방법'
 description: '채소와 과일의 올바른 세척법을 정리했습니다. 베이킹소다·식초·소금 세척법 비교, 식재료별 씻는 방법, 농약 제거에 효과적인 방법까지 총정리.'
 pubDate: '2026-04-26T13:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/1327838/pexels-photo-1327838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/4920535/pexels-photo-4920535.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -93,7 +93,7 @@ draft: false
 2. 흐르는 물에 가볍게 씻기 (세게 문지르면 껍질 손상)
 3. 식초 세척액에 2~3분 담갔다 헹구면 더 효과적
 
-![신선한 채소 세척](https://images.pexels.com/photos/8105035/pexels-photo-8105035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![채소 세척 — 흐르는 물에 꼼꼼히 씻어야 농약과 이물질을 제거할 수 있다](https://images.pexels.com/photos/4920549/pexels-photo-4920549.jpeg?auto=compress&cs=tinysrgb&w=800&q=80)
 
 ### 오이·가지·파프리카
 

@@ -63,7 +63,6 @@ draft: false
 
 잘라서 보관 시 **3~5일** 안에 사용하세요.
 
-![고추와 파프리카](https://images.pexels.com/photos/1374914/pexels-photo-1374914.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 고추 냉동 보관법
 

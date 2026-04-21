@@ -2,7 +2,7 @@
 title: '식용유 보관법 — 산패 없이 맛있게 오래 사용하는 방법'
 description: '식용유가 산패되는 이유와 올바른 보관법을 정리했습니다. 대두유·포도씨유·올리브유·코코넛오일 등 종류별 보관법과 산패 확인법까지 총정리.'
 pubDate: '2026-04-26T09:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/1435904/pexels-photo-1435904.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/5056853/pexels-photo-5056853.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: '7월 제철 식재료 총정리 — 무더운 여름에 맛이 최고인 식재료'
 description: '7월에 제철을 맞은 채소·과일·해산물을 총정리했습니다. 옥수수·수박·복숭아·전복·민어 등 7월 제철 식재료의 고르는 법과 보관·활용법까지.'
 pubDate: '2026-04-26T21:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/1435706/pexels-photo-1435706.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/142520/pexels-photo-142520.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -110,7 +110,6 @@ draft: false
 - 씻지 않고 냉장: 1~2주
 - 냉동: 6개월~1년 (안토시아닌 보존)
 
-![7월 여름 채소와 과일](https://images.pexels.com/photos/1128678/pexels-photo-1128678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 7월 제철 해산물
 

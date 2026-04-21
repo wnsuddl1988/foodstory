@@ -2,7 +2,7 @@
 title: '5월 제철 식재료 총정리 — 지금 먹어야 가장 맛있는 초여름 식재료'
 description: '5월에 가장 맛있는 제철 식재료를 총정리했습니다. 봄에서 여름으로 넘어가는 5월의 제철 채소, 해산물, 과일과 고르는 법을 소개합니다.'
 pubDate: '2026-04-22T09:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/2255234/pexels-photo-2255234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/30893236/pexels-photo-30893236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: '6월 제철 식재료 총정리 — 지금 먹어야 가장 맛있는 초여름 식재료'
 description: '6월에 제철을 맞은 채소·과일·해산물을 총정리했습니다. 매실·참외·복분자·감자·오징어 등 6월 제철 식재료의 고르는 법과 활용 요리법까지.'
 pubDate: '2026-04-24T17:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/1128678/pexels-photo-1128678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/12940854/pexels-photo-12940854.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -138,7 +138,6 @@ draft: false
 
 **활용:** 갈치조림, 갈치구이, 갈치국
 
-![6월 제철 식재료](https://images.pexels.com/photos/616833/pexels-photo-616833.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ### 병어
 

@@ -68,7 +68,6 @@ draft: false
 - 냉장 보관 유지
 - **2~3일** 이내 소비
 
-![우유와 유제품](https://images.pexels.com/photos/3735170/pexels-photo-3735170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 두유도 우유와 마찬가지로 소분해서 냉동 가능해요. 해동 후에는 스무디, 국물 요리, 두유 크림 등에 활용하면 돼요. 냉동 보관 시 **약 1~2개월** 유지 가능해요.
 

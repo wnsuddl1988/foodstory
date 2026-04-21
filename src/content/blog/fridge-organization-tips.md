@@ -2,7 +2,7 @@
 title: '냉장고 정리법 — 식재료를 오래 신선하게 유지하는 구역별 배치'
 description: '냉장고 어디에 무엇을 넣어야 할까요? 냉장고 구역별 온도와 적합한 식재료, 식재료 낭비를 줄이는 냉장고 정리 방법을 정리했습니다.'
 pubDate: '2026-04-22T15:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/3735190/pexels-photo-3735190.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/4061622/pexels-photo-4061622.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

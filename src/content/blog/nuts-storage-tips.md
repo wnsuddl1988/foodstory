@@ -75,7 +75,6 @@ draft: false
 - 밀봉 냉장: **약 6개월**
 - 냉동: **약 1년**
 
-![다양한 견과류](https://images.pexels.com/photos/1295572/pexels-photo-1295572.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 견과류 올바른 보관 방법
 

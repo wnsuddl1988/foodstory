@@ -113,7 +113,6 @@ draft: false
 - 원래 포장 상자째 보관하거나 왁스 페이퍼로 감싸 냉장
 - 냉장 **1~2주** (이미 숙성 진행 중)
 
-![버터와 치즈](https://images.pexels.com/photos/1927377/pexels-photo-1927377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 치즈에 곰팡이가 피었을 때
 

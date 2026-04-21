@@ -70,7 +70,6 @@ draft: false
 
 **국물 육수 만들기:** 채소 껍질, 파 뿌리, 생선 뼈, 고기 뼈 등을 모아 끓이면 훌륭한 육수가 됩니다. 따로 보관했다가 찌개나 국 끓일 때 사용하세요.
 
-![냉장고 식재료 관리 — 투명 용기와 날짜 표기가 식재료 낭비를 막는다](https://images.pexels.com/photos/5622232/pexels-photo-5622232.jpeg?auto=compress&cs=tinysrgb&w=800&q=80)
 
 ## 식재료 구입 계획 세우기
 

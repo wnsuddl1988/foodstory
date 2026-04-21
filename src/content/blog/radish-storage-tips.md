@@ -2,7 +2,7 @@
 title: '무 보관법 — 반 토막 남은 무도 신선하게 오래 두는 방법'
 description: '무를 통째로 또는 잘라서 보관하는 올바른 방법을 정리했습니다. 무 냉장·냉동 보관법, 자른 면 관리법, 겨울무 vs 여름무 차이까지 총정리.'
 pubDate: '2026-04-25T13:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/4110251/pexels-photo-4110251.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/7214603/pexels-photo-7214603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

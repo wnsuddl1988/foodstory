@@ -2,7 +2,7 @@
 title: '애호박·단호박 보관법 — 자른 후에도 신선하게 유지하는 방법'
 description: '애호박과 단호박 보관법이 다릅니다. 통째로 vs 자른 후, 냉장 vs 상온 보관법과 냉동 방법까지 총정리했습니다. 호박 신선도 오래 유지하는 핵심 팁.'
 pubDate: '2026-04-23T15:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/6316515/pexels-photo-6316515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/3159251/pexels-photo-3159251.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -92,7 +92,6 @@ draft: false
 
 두 방법 모두 **2~3개월** 보관 가능해요. 찐 후 냉동한 것은 해동하면 바로 먹거나 으깨서 수프, 죽에 활용하면 좋고, 생으로 냉동한 것은 조림이나 볶음 요리에 해동 없이 바로 사용하면 돼요.
 
-![단호박과 애호박](https://images.pexels.com/photos/5938/food-salad-healthy-vegetables.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 애호박 vs 단호박 보관법 비교
 

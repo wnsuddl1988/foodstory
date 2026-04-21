@@ -2,7 +2,7 @@
 title: '식재료 유통기한 총정리 — 냉장·냉동·상온 보관 기간 한눈에'
 description: '채소·과일·육류·유제품·가공식품 등 식재료별 냉장·냉동·상온 보관 기간을 총정리했습니다. 유통기한 지난 식재료 먹어도 되는지 판단 기준도 함께.'
 pubDate: '2026-04-24T15:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/4397899/pexels-photo-4397899.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/8580727/pexels-photo-8580727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -80,7 +80,6 @@ draft: false
 | 치즈 (슬라이스) | - | 2~4주 | 6개월 |
 | 생크림 | - | 유통기한 후 1~2일 | 1~2개월 |
 
-![다양한 식재료](https://images.pexels.com/photos/1640770/pexels-photo-1640770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 가공식품·조미료 보관 기간
 
