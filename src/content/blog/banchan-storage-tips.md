@@ -2,7 +2,7 @@
 title: '반찬 보관법 총정리 — 종류별로 얼마나, 어떻게 보관할까'
 description: '나물·조림·볶음·김치 등 반찬 종류별 냉장·냉동 보관법과 보관 기간을 정리했습니다. 반찬이 빨리 상하는 이유와 오래 가는 반찬 만드는 팁까지.'
 pubDate: '2026-04-26T15:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/5409751/pexels-photo-5409751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/6919802/pexels-photo-6919802.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -91,7 +91,7 @@ draft: false
 **작은 용기에 소분:**
 큰 용기에 많이 담아두면 매번 여닫을 때마다 공기 접촉이 생겨요. 1~2번 먹을 양씩 소분해두면 나머지 반찬의 신선도가 더 유지돼요.
 
-![다양한 한국 반찬](https://images.pexels.com/photos/5409751/pexels-photo-5409751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![한국 반찬 — 종류에 따라 보관 방법과 유통기한이 다르다](https://images.pexels.com/photos/8866598/pexels-photo-8866598.jpeg?auto=compress&cs=tinysrgb&w=800&q=80)
 
 ## 반찬 보관 기간 요약
 

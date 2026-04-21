@@ -2,7 +2,7 @@
 title: '냉동식품 보관·해동법 — 냉동실을 제대로 활용하는 방법'
 description: '냉동식품을 잘못 보관하면 냉동 화상이 생기고 맛이 떨어집니다. 냉동식품 종류별 보관법, 냉동실 온도 관리, 올바른 해동 방법까지 정리했습니다.'
 pubDate: '2026-04-21T23:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/3962285/pexels-photo-3962285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/29834274/pexels-photo-29834274.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -63,7 +63,6 @@ draft: false
 
 이 기간을 넘긴다고 바로 먹을 수 없는 것은 아니지만, 맛과 식감 저하가 눈에 띄게 됩니다.
 
-![정리된 냉동실 — 날짜 표기와 소분이 냉동 보관의 핵심이다](https://images.pexels.com/photos/4397912/pexels-photo-4397912.jpeg?auto=compress&cs=tinysrgb&w=800&q=80)
 
 ## 냉동에 적합하지 않은 식재료
 

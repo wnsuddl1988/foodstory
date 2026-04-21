@@ -2,7 +2,7 @@
 title: '미역·김·다시마 보관법 — 해조류 신선하게 오래 두는 방법'
 description: '미역·김·다시마 등 해조류 보관법을 정리했습니다. 건미역·생미역·구운 김 종류별 보관법, 눅눅해졌을 때 살리는 방법, 냉동 보관법까지 총정리.'
 pubDate: '2026-04-26T17:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/8969237/pexels-photo-8969237.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/13677969/pexels-photo-13677969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -124,7 +124,6 @@ draft: false
 
 냉동 다시마는 **약 1년** 보관 가능해요. 해동 없이 냉동 상태에서 바로 물에 넣어 국물을 내면 돼요.
 
-![미역과 해조류](https://images.pexels.com/photos/2454533/pexels-photo-2454533.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 해조류 보관 기간 요약
 

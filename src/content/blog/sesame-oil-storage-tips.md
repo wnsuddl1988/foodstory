@@ -2,7 +2,7 @@
 title: '참기름·들기름 보관법 — 산패 없이 오래 맛있게 두는 방법'
 description: '참기름과 들기름이 산패되는 이유와 올바른 보관법을 정리했습니다. 냉장 vs 상온, 빛·열 차단 방법, 산패 확인법까지 한 번에 확인하세요.'
 pubDate: '2026-04-23T21:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/33783/olive-oil-salad-dressing-cooking.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/8951047/pexels-photo-8951047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -66,7 +66,6 @@ draft: false
 
 냉동 들기름은 사용 전날 냉장으로 옮겨 해동하거나, 실온에서 10~15분 두면 사용할 수 있어요. **6개월~1년** 보관 가능해요.
 
-![참기름과 깨](https://images.pexels.com/photos/4198021/pexels-photo-4198021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 산패 여부 확인하는 방법
 

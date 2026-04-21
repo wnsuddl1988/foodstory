@@ -2,7 +2,7 @@
 title: '셀러리·청경채 보관법 — 아삭함을 오래 유지하는 방법'
 description: '셀러리와 청경채를 냉장 보관할 때 아삭함을 유지하는 방법을 정리했습니다. 냉장 보관 기간, 냉동 방법, 시든 것 살리는 방법까지 총정리.'
 pubDate: '2026-04-27T19:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/4198021/pexels-photo-4198021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/6157088/pexels-photo-6157088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -77,7 +77,7 @@ draft: false
 
 냉동 청경채는 **약 1~2개월** 보관 가능해요.
 
-![셀러리와 청경채](https://images.pexels.com/photos/1640770/pexels-photo-1640770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![청경채 — 뿌리째 세워서 보관하거나 키친타월로 감싸면 아삭함이 오래 유지된다](https://images.pexels.com/photos/1543796/pexels-photo-1543796.jpeg?auto=compress&cs=tinysrgb&w=800&q=80)
 
 ## 시든 셀러리·청경채 살리는 방법
 

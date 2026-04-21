@@ -2,7 +2,7 @@
 title: '장보기 전 냉장고 정리법 — 식재료 낭비 줄이는 스마트한 방법'
 description: '장보기 전 냉장고를 정리하는 방법과 효율적인 장보기 전략을 정리했습니다. 남은 식재료 활용법, 냉장고 구역별 정리, 장보기 목록 작성법까지 총정리.'
 pubDate: '2026-04-27T11:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/5824901/pexels-photo-5824901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/9031968/pexels-photo-9031968.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

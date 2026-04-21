@@ -2,7 +2,7 @@
 title: '된장·간장·고추장 보관법 — 장류를 오래 맛있게 유지하는 방법'
 description: '된장·간장·고추장·쌈장 등 장류는 잘못 보관하면 곰팡이가 피거나 맛이 변합니다. 개봉 전후 올바른 보관법과 오래 두는 방법을 정리했습니다.'
 pubDate: '2026-04-21T21:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/8930829/pexels-photo-8930829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/19730266/pexels-photo-19730266.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -78,7 +78,6 @@ draft: false
 2. 표면에 랩을 밀착시킵니다.
 3. 고추장 표면에 식용유를 얇게 발라두면 수분 증발을 막는 데 효과적입니다.
 
-![한국 발효 장류 — 된장·간장·고추장은 개봉 후 냉장 보관이 원칙이다](https://images.pexels.com/photos/5947051/pexels-photo-5947051.jpeg?auto=compress&cs=tinysrgb&w=800&q=80)
 
 ### 고추장에 곰팡이가 폈을 때
 

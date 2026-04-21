@@ -87,7 +87,6 @@ draft: false
 - 우유 (온도 변화에 민감)
 - 생 고기, 생선
 
-![냉장고 내부 정리 — 구역별 배치만 바꿔도 식재료 신선도가 달라진다](https://images.pexels.com/photos/4397912/pexels-photo-4397912.jpeg?auto=compress&cs=tinysrgb&w=800&q=80)
 
 ## 냉장고 정리 원칙 5가지
 

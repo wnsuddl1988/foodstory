@@ -2,7 +2,7 @@
 title: '쪽파·부추·달래 보관법 — 향채소 신선하게 오래 두는 방법'
 description: '쪽파·부추·달래가 금방 시드는 이유와 올바른 보관법을 정리했습니다. 냉장 보관 기간, 냉동 방법, 향채소별 보관 차이점까지 총정리.'
 pubDate: '2026-04-25T15:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/4197492/pexels-photo-4197492.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/31858144/pexels-photo-31858144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -101,7 +101,6 @@ draft: false
 
 냉동 달래는 **약 1개월** 보관 가능해요.
 
-![쪽파와 부추](https://images.pexels.com/photos/4198021/pexels-photo-4198021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 향채소 공통 보관 주의사항
 

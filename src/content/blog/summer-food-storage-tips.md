@@ -2,7 +2,7 @@
 title: '여름철 식재료 보관 주의사항 — 더운 계절에 식중독 예방하는 법'
 description: '여름철에 식재료가 빨리 상하는 이유와 올바른 보관법을 정리했습니다. 식중독 예방, 냉장고 온도 관리, 여름에 특히 주의해야 할 식재료까지 총정리.'
 pubDate: '2026-04-26T23:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/3784324/pexels-photo-3784324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/2917894/pexels-photo-2917894.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -84,7 +84,6 @@ draft: false
 
 뜨거운 음식을 바로 냉장고에 넣으면 냉장고 내부 온도가 올라가 다른 식재료까지 영향을 줘요. 반드시 실온에서 충분히 식힌 뒤 넣으세요.
 
-![여름 식재료 보관](https://images.pexels.com/photos/5864259/pexels-photo-5864259.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 여름철 장보기 팁
 

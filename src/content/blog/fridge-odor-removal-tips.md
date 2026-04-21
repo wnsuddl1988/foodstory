@@ -2,7 +2,7 @@
 title: '냉장고 냄새 제거법 — 원인부터 해결까지 완벽 정리'
 description: '냉장고에서 냄새가 나는 이유와 근본적인 제거 방법을 정리했습니다. 베이킹소다·숯·커피 찌꺼기 탈취법과 냄새 예방 보관법까지 총정리.'
 pubDate: '2026-04-24T13:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/3784324/pexels-photo-3784324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/6593607/pexels-photo-6593607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -68,7 +68,6 @@ draft: false
 - 녹차 우린 후 남은 잎을 건조시켜 활용
 - 소취 효과 있지만 커피 찌꺼기나 베이킹소다보다는 약함
 
-![깨끗이 정리된 냉장고](https://images.pexels.com/photos/5824901/pexels-photo-5824901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ### 3단계: 시판 탈취제 활용
 

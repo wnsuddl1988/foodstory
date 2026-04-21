@@ -2,7 +2,7 @@
 title: '멸치·건어물 보관법 — 눅눅해지지 않게 오래 두는 방법'
 description: '멸치와 건어물이 눅눅해지거나 산패되는 이유와 올바른 보관법을 정리했습니다. 냉장·냉동 보관법과 국물용·볶음용 분리 보관 팁까지.'
 pubDate: '2026-04-23T19:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/3297866/pexels-photo-3297866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/37035198/pexels-photo-37035198.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -82,7 +82,6 @@ draft: false
 - 냉동 보관: **약 3~6개월**
 - 표면에 하얀 가루가 생기는 건 곰팡이가 아니라 염분이 결정화된 것이니 안심하세요
 
-![다양한 건어물](https://images.pexels.com/photos/8969237/pexels-photo-8969237.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 건어물 보관할 때 피해야 할 것들
 

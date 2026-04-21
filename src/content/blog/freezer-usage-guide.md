@@ -2,7 +2,6 @@
 title: '냉동실 완벽 활용법 — 제대로 쓰면 식비가 줄어든다'
 description: '냉동실을 제대로 활용하는 방법을 총정리했습니다. 식재료별 냉동 방법, 냉동 전 손질 팁, 해동법, 냉동실 정리법까지 냉동 보관의 모든 것.'
 pubDate: '2026-04-24T23:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/5864259/pexels-photo-5864259.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -89,7 +88,6 @@ draft: false
 - 주의: 감자조림(해동 후 물러짐), 두부조림(식감 변화), 계란말이(해동 후 수분 나옴) 등은 냉동 후 맛이 많이 변함
 - 보관: 1~2개월
 
-![냉동실 정리](https://images.pexels.com/photos/5864258/pexels-photo-5864258.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 올바른 해동 방법
 

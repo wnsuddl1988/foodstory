@@ -2,7 +2,7 @@
 title: '쌀·잡곡 보관법 — 벌레 안 생기고 오래 맛있게 두는 방법'
 description: '쌀을 잘못 보관하면 벌레가 생기고 밥맛이 떨어집니다. 쌀벌레 예방법, 잡곡 보관법, 소량 구매 vs 대량 구매 비교까지 쌀 보관의 모든 것을 정리했습니다.'
 pubDate: '2026-04-21T19:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/4110401/pexels-photo-4110401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/4110255/pexels-photo-4110255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -62,7 +62,7 @@ draft: false
 
 쌀을 새로 담기 전에 쌀통을 깨끗하게 닦아야 합니다. 이전에 있던 쌀 찌꺼기나 쌀겨가 남아있으면 벌레의 먹이가 됩니다. 쌀통을 물로 씻은 후 완전히 건조시킨 다음에 새 쌀을 담으세요.
 
-![한 컵 분량의 쌀 — 신선한 쌀로 지은 밥은 윤기와 찰기가 다르다](https://images.pexels.com/photos/4110398/pexels-photo-4110398.jpeg?auto=compress&cs=tinysrgb&w=800&q=80)
+![쌀과 잡곡 — 밀봉 용기에 담아 서늘하고 어두운 곳에 보관해야 벌레와 산화를 막는다](https://images.pexels.com/photos/18328392/pexels-photo-18328392.jpeg?auto=compress&cs=tinysrgb&w=800&q=80)
 
 ## 잡곡 보관법
 
