@@ -2,9 +2,12 @@ name: Scheduled Cloudflare Deploy
 
 on:
   schedule:
-    # KST 기준 매 2시간마다 빌드 (09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00, 23:00 KST)
-    # GitHub Actions cron은 UTC 기준 → KST = UTC+9 → UTC 00:00, 02:00, 04:00, ...
-    - cron: '0 */2 * * *'
+    # 매시간 7분에 실행 (정각 회피 — GitHub Actions 정각 부하 집중 이슈 우회)
+    # UTC 00:07 = KST 09:07, UTC 01:07 = KST 10:07, ...
+    - cron: '7 * * * *'
+  push:
+    branches:
+      - master
   workflow_dispatch: # 수동 실행도 가능
 
 jobs:
@@ -13,4 +16,10 @@ jobs:
     steps:
       - name: Trigger Cloudflare Pages Build
         run: |
-          curl -X POST "${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}"
+          RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" -X POST "${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}")
+          echo "Cloudflare deploy hook response: $RESPONSE"
+          if [ "$RESPONSE" != "200" ] && [ "$RESPONSE" != "201" ]; then
+            echo "ERROR: Deploy hook failed with status $RESPONSE"
+            exit 1
+          fi
+          echo "Deploy triggered successfully"
