@@ -69,7 +69,7 @@ draft: false
 
 **3개월** 정도 보관 가능하고, 스무디·잼·조림에 활용해요.
 
-![사과는 에틸렌 가스를 많이 내뿜어서 다른 식재료와 분리 보관이 중요해요](https://images.pexels.com/photos/1400172/pexels-photo-1400172.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![사과는 에틸렌 가스를 많이 내뿜어서 다른 식재료와 분리 보관이 중요해요](https://images.pexels.com/photos/10899598/pexels-photo-10899598.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 사과 갈변 방지 방법
 

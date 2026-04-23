@@ -109,7 +109,7 @@ draft: false
 
 **주의:** 감자, 두부가 들어간 찌개는 해동 후 해당 재료의 식감이 변해요. 감자가 들어간 찌개는 냉동 시 감자만 미리 꺼내거나, 해동 후 새 감자를 추가해도 돼요.
 
-![반찬은 소분해서 냉동하면 1~2개월 동안 맛있게 즐길 수 있어요. 날짜 표기를 꼭 하세요](https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![반찬은 소분해서 냉동하면 1~2개월 동안 맛있게 즐길 수 있어요. 날짜 표기를 꼭 하세요](https://images.pexels.com/photos/34005910/pexels-photo-34005910.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 냉동하면 안 되는 반찬
 

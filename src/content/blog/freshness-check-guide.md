@@ -108,7 +108,7 @@ draft: false
 
 ## 해산물 신선도 확인법
 
-![식재료 신선도 확인의 핵심은 색·향·촉감 세 가지예요. 좋은 식재료를 고르는 능력이 요리의 기본이에요](https://images.pexels.com/photos/3860810/pexels-photo-3860810.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![식재료 신선도 확인의 핵심은 색·향·촉감 세 가지예요. 좋은 식재료를 고르는 능력이 요리의 기본이에요](https://images.pexels.com/photos/3987358/pexels-photo-3987358.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ### 생선
 

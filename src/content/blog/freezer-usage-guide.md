@@ -2,6 +2,7 @@
 title: '냉동실 완벽 활용법 — 제대로 쓰면 식비가 줄어든다'
 description: '냉동실을 제대로 활용하는 방법을 총정리했습니다. 식재료별 냉동 방법, 냉동 전 손질 팁, 해동법, 냉동실 정리법까지 냉동 보관의 모든 것.'
 pubDate: '2026-04-24T23:00:00+09:00'
+heroImage: 'https://images.pexels.com/photos/5498226/pexels-photo-5498226.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

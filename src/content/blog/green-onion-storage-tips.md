@@ -70,7 +70,7 @@ draft: false
 
 냉동 대파는 해동 없이 바로 요리에 넣어도 돼요. 국·찌개에는 그대로 투입하고, 볶음요리는 프라이팬에 올리면 바로 녹아서 볶아져요.
 
-![대파와 쪽파 보관할 때는 세워서 보관하는 게 핵심이에요](https://images.pexels.com/photos/4397640/pexels-photo-4397640.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![대파와 쪽파 보관할 때는 세워서 보관하는 게 핵심이에요](https://images.pexels.com/photos/6102654/pexels-photo-6102654.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 쪽파 보관법
 

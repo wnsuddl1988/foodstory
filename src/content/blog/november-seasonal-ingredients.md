@@ -90,7 +90,7 @@ draft: false
 
 11월~12월이 제철인 도루묵은 특히 알이 가득 찬 암컷 도루묵이 인기예요. 구이나 찜으로 즐겨요.
 
-![11월은 김장철이자 굴·방어 등 겨울 해산물이 본격적으로 제철을 맞는 시기예요](https://images.pexels.com/photos/1109561/pexels-photo-1109561.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![11월은 김장철이자 굴·방어 등 겨울 해산물이 본격적으로 제철을 맞는 시기예요](https://images.pexels.com/photos/219794/pexels-photo-219794.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 11월 면역력 높이는 식재료 조합
 

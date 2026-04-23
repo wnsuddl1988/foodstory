@@ -101,7 +101,7 @@ draft: false
 
 채소를 젖은 면천으로 감싸면 수분 증발로 냉각 효과가 생겨요. 사막 등 건조한 환경에서 특히 효과적인 전통 보관법이에요.
 
-![냉장고 없이 식재료를 보관할 때는 서늘하고 어두운 환경과 통풍이 핵심이에요](https://images.pexels.com/photos/4443442/pexels-photo-4443442.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![냉장고 없이 식재료를 보관할 때는 서늘하고 어두운 환경과 통풍이 핵심이에요](https://images.pexels.com/photos/4440173/pexels-photo-4440173.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 냉장고 없이 빨리 먹어야 하는 식재료
 

@@ -82,7 +82,7 @@ draft: false
 
 **2~3개월** 보관. 쑥국, 쑥떡에 그대로 사용해요.
 
-![봄나물은 데쳐서 물기를 꼭 짠 후 소분 냉동하면 2~3개월은 거뜬히 즐길 수 있어요](https://images.pexels.com/photos/4397640/pexels-photo-4397640.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![봄나물은 데쳐서 물기를 꼭 짠 후 소분 냉동하면 2~3개월은 거뜬히 즐길 수 있어요](https://images.pexels.com/photos/3987360/pexels-photo-3987360.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 두릅 보관법
 

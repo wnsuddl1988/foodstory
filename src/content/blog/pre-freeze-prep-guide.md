@@ -2,7 +2,7 @@
 title: '식재료 냉동 전 손질법: 맛 유지를 위한 냉동 준비 요령'
 description: '식재료를 냉동하기 전에 해야 하는 손질법을 정리했습니다. 고기·채소·해산물별 냉동 준비 요령, 소분 방법, 냉동 화상 예방까지 냉동 전 완벽 가이드.'
 pubDate: '2026-04-29T11:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/3860810/pexels-photo-3860810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/6077635/pexels-photo-6077635.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

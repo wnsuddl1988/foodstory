@@ -94,7 +94,7 @@ draft: false
 
 10월 고등어는 여름부터 살이 올라 가장 맛있는 시기예요. 오메가-3, DHA, EPA가 풍부해요.
 
-![10월은 사과·밤·버섯 등 가을 수확의 절정으로 식재료가 가장 풍성한 시기예요](https://images.pexels.com/photos/3860810/pexels-photo-3860810.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![10월은 사과·밤·버섯 등 가을 수확의 절정으로 식재료가 가장 풍성한 시기예요](https://images.pexels.com/photos/1456126/pexels-photo-1456126.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 10월 제철 식재료 맛있게 즐기기
 

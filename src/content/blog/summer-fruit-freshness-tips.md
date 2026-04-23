@@ -90,7 +90,7 @@ draft: false
 
 포도알을 송이에서 하나씩 떼어 낱개 냉동하면 과일 아이스크림처럼 즐길 수 있어요. 해동하면 물러지니 냉동 상태 그대로 먹어요.
 
-![여름 과일은 씻지 않고 개별 포장해서 냉장 보관하는 게 신선도를 오래 유지하는 핵심이에요](https://images.pexels.com/photos/1400172/pexels-photo-1400172.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![여름 과일은 씻지 않고 개별 포장해서 냉장 보관하는 게 신선도를 오래 유지하는 핵심이에요](https://images.pexels.com/photos/9590279/pexels-photo-9590279.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 여름 과일 공통 주의사항
 

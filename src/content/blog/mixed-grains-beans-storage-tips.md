@@ -2,7 +2,7 @@
 title: '잡곡·콩류 보관법: 오래 두어도 맛이 살아있는 비결'
 description: '잡곡과 콩류를 오래 신선하게 보관하는 방법을 정리했습니다. 현미·흑미·검은콩 보관법, 벌레 예방, 냉동 보관 활용까지 총정리.'
 pubDate: '2026-04-28T23:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/1327838/pexels-photo-1327838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/5908470/pexels-photo-5908470.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -72,7 +72,7 @@ draft: false
 
 **중요**: 오래된 콩은 불리는 시간이 더 필요해요. 1년 이상 된 콩은 24시간 불려도 잘 무르지 않을 수 있으니 가급적 1년 이내에 사용해요.
 
-![잡곡과 콩류는 구입 후 소분해서 냉동해두면 벌레 걱정 없이 오래 먹을 수 있어요](https://images.pexels.com/photos/4202926/pexels-photo-4202926.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![잡곡과 콩류는 구입 후 소분해서 냉동해두면 벌레 걱정 없이 오래 먹을 수 있어요](https://images.pexels.com/photos/18378043/pexels-photo-18378043.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ### 불린 콩 보관
 
