@@ -80,7 +80,7 @@ draft: false
 
 **보관법:** 완전 건조된 시래기는 서늘한 상온에서 6개월~1년.
 
-![12월은 굴·과메기·방어 등 겨울 해산물과 귤·시금치가 가장 맛있는 시기예요](https://images.pexels.com/photos/5765884/pexels-photo-5765884.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![12월은 굴·과메기·방어 등 겨울 해산물과 귤·시금치가 가장 맛있는 시기예요](https://images.pexels.com/photos/10375841/pexels-photo-10375841.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 12월 따뜻하게 즐기는 요리
 

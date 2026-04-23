@@ -63,7 +63,7 @@ draft: false
 2. 얼음 틀에 붓거나 지퍼백에 납작하게 담아 냉동
 3. 수박 아이스바나 음료에 바로 사용
 
-![수박 슬라이스](https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![수박 슬라이스](https://images.pexels.com/photos/880447/pexels-photo-880447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 수박 신선도 확인하는 방법
 

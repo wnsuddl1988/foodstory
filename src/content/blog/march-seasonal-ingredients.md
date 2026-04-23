@@ -101,7 +101,7 @@ draft: false
 
 **보관법:** 씻지 않고 냉장에서 2~3일. 데쳐서 냉동 2~3개월.
 
-![3월은 냉이·달래·쑥 등 봄나물과 도다리·주꾸미 등 봄 해산물이 절정을 맞는 시기예요](https://images.pexels.com/photos/4920535/pexels-photo-4920535.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![3월은 냉이·달래·쑥 등 봄나물과 도다리·주꾸미 등 봄 해산물이 절정을 맞는 시기예요](https://images.pexels.com/photos/4113915/pexels-photo-4113915.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 봄나물 맛있게 먹는 법
 

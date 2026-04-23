@@ -2,7 +2,7 @@
 title: '상추·깻잎 보관법 — 쌈채소 신선하게 오래 두는 방법'
 description: '상추와 깻잎이 냉장 보관해도 금방 시드는 이유와 올바른 보관법을 정리했습니다. 물에 세워두기, 키친타월 포장법 등 쌈채소 신선도 유지 비법.'
 pubDate: '2026-04-23T13:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/1199561/pexels-photo-1199561.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/6849628/pexels-photo-6849628.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -88,7 +88,7 @@ draft: false
 
 씻은 깻잎은 **1~2일** 안에 사용하세요.
 
-![상추와 깻잎 쌈채소](https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![상추와 깻잎 쌈채소](https://images.pexels.com/photos/102123/pexels-photo-102123.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 시든 상추·깻잎 살리는 방법
 

@@ -174,7 +174,7 @@ draft: false
 
 **보관 기간:** **2~3개월**
 
-![해산물은 손질 후 소분해서 냉동하면 3개월까지 신선하게 보관할 수 있어요](https://images.pexels.com/photos/566345/pexels-photo-566345.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![해산물은 손질 후 소분해서 냉동하면 3개월까지 신선하게 보관할 수 있어요](https://images.pexels.com/photos/20811001/pexels-photo-20811001.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 굴 손질·보관법
 

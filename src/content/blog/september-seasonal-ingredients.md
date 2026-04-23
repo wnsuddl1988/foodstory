@@ -74,7 +74,7 @@ draft: false
 
 **보관법:** 신문지에 싸서 냉장에서 1~2개월. 다른 과일과 분리 보관.
 
-![9월은 햅쌀·배·고구마 등 가을 수확의 시작을 알리는 제철 식재료가 가득한 시기예요](https://images.pexels.com/photos/4061622/pexels-photo-4061622.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![9월은 햅쌀·배·고구마 등 가을 수확의 시작을 알리는 제철 식재료가 가득한 시기예요](https://images.pexels.com/photos/5750796/pexels-photo-5750796.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 9월 제철 해산물
 
