@@ -20,15 +20,23 @@ Astro 6 기반 정적 블로그. 파일 기반 라우팅과 Content Collections 
 
 **전역 상수:** 사이트 타이틀·설명은 `src/consts.ts`에서 관리.
 
-**배포 도메인:** `astro.config.mjs`의 `site` 값을 실제 도메인으로 변경 후 배포.
+**배포 도메인:** `https://ian-papa.com` (확정). `astro.config.mjs`의 `site` 값으로 설정되어 있음.
 
 **폰트:** Atkinson 로컬 폰트 (`src/assets/fonts/`) — `astro.config.mjs`에서 설정.
 
 **스타일:** `src/styles/global.css`에 전역 CSS. 컴포넌트는 scoped CSS 사용. CSS 프레임워크 없음. 흑백 테마 적용.
 
-**이미지:** Astro `<Image>` 컴포넌트로 최적화. 포스트 내 Unsplash 외부 이미지는 마크다운 `![]()` 문법 사용.
+**이미지:** Astro `<Image>` 컴포넌트로 최적화. 포스트 내 외부 이미지는 마크다운 `![]()` 문법 사용.
 
 **RSS 피드:** `/rss.xml`로 자동 생성 (`src/pages/rss.xml.js`).
+
+**애드센스:** `src/components/BaseHead.astro` 하단에 스크립트 삽입됨 (publisher ID: ca-pub-3153802080373437). 모든 페이지에 자동 적용.
+
+## 배포 구조
+
+- **GitHub → Cloudflare Pages** 자동 연동. `master` 브랜치에 push하면 즉시 빌드·배포.
+- **GitHub Actions cron**이 정기적으로 빈 커밋을 push해 Cloudflare 재빌드를 트리거함 → `pubDate`가 지난 예약 포스트가 자동 노출됨.
+- Cloudflare는 정적 빌드 기반이라 "실시간 예약 발행" 아님. 빌드 시점에 `pubDate`가 지난 글만 노출됨.
 
 ---
 
@@ -56,10 +64,10 @@ draft: false
 ---
 ```
 
-- `heroImage`: Pexels/Unsplash 외부 URL 사용 (깔끔하고 주제에 맞는 사진)
-- `draft: true` 설정 시 목록·홈에 노출되지 않음 (예약발행용)
+- `heroImage`: Pexels/Unsplash 외부 URL 사용 (주제와 직접 연관된 사진)
 - **`pubDate`는 반드시 `+09:00` 한국시간(KST) 오프셋 포함** — Cloudflare 빌드 서버는 UTC 기준이라 타임존 없이 쓰면 KST보다 9시간 늦게 노출됨
-- `pubDate`를 미래 날짜로 설정하면 그 날 이후 사이트 빌드 시점부터 발행됨
+- `pubDate`를 미래 날짜로 설정하면 그 날 이후 빌드 시점부터 발행됨
+- `draft: true`는 완전 숨김용 (목록·빌드에서 제외). 예약발행은 `draft: false` + 미래 `pubDate` 조합으로 처리
 
 **글 작성 규칙:**
 1. **분량:** 최소 5,000자 이상
@@ -69,25 +77,21 @@ draft: false
    - 핵심 키워드를 제목·도입부·소제목에 자연스럽게 배치
    - 광고보다 콘텐츠 비중이 압도적으로 높아야 함 (텍스트 중심 구성)
    - 전문성·신뢰성이 느껴지도록 구체적인 수치·이유·근거 포함
-4. **이미지: 총 1~2개** (heroImage 포함 기준)
-   - heroImage: 글 목록 대표 사진 — 시각적으로 깔끔하고 주제와 직결된 사진 사용
-   - 본문 이미지: 1개, 내용을 가장 잘 보완하는 위치에 삽입
+4. **이미지 규칙 (반드시 준수):**
+   - **최대 2개** — heroImage 1개 + 본문 이미지 1개
+   - **주제와 직접 연관된 사진만 사용** — 글이 쌀이면 쌀, 참기름이면 참기름 사진
+   - **관련 이미지를 못 찾으면 넣지 않는다** — 억지로 비슷한 사진 붙이지 말 것
+   - **중복 금지** — 이미 다른 포스트에 쓴 Pexels 사진 ID를 재사용하지 않는다. 새 글 작성 전 `grep -rh "heroImage\|!\[" src/content/blog/*.md | grep -oE "photos/[0-9]+"` 로 기존 ID 확인
+   - **이미지 검색 순서:** Pexels → Unsplash → Pixabay (1회 검색, 없으면 건너뜀)
+   - 이미지 URL에서 파일명 확인 — "olive-oil", "gift-box" 같이 주제와 다른 파일명은 즉시 제외
    - 형식: `![구체적인 설명](이미지URL)`
-   - **반드시 글 주제와 직접 연관된 이미지만 사용**
-   - 아래 3개 사이트에서 검색 (1회 원칙, 못 찾으면 건너뜀)
-     - https://www.pexels.com/ko-kr/
-     - https://unsplash.com/ko
-     - https://pixabay.com/ko/
 5. **말투:** 블로그 글체 (구어체 혼용), 독자에게 말 걸듯 자연스럽게
-6. **구성:**
-   - 도입부(공감) → H2/H3 본론 → 본문 이미지 1개 → 팁/주의사항 → 마무리
+6. **구성:** 도입부(공감) → H2/H3 본론 → 본문 이미지 1개 → 팁/주의사항 → 마무리
 
 ### 예약발행 방법
 - 즉시 발행: `draft: false` + `pubDate: 'YYYY-MM-DDTHH:MM:SS+09:00'` (현재 시각)
-- 예약발행: `draft: false` + `pubDate: 'YYYY-MM-DDTHH:MM:SS+09:00'` (미래 시각) → git push 후 Cloudflare 빌드 시점에 pubDate가 지난 글만 노출
+- 예약발행: `draft: false` + `pubDate: 'YYYY-MM-DDTHH:MM:SS+09:00'` (미래 시각) → git push 후 GitHub Actions cron이 주기적으로 재빌드해 pubDate가 지난 글 자동 노출
 - 임시저장: `draft: true` → 빌드해도 목록에 나타나지 않음
-
-> **주의:** Cloudflare는 정적 빌드 기반이라 "자동 예약 발행"이 아님. git push가 트리거가 되어 빌드가 일어나고, 그 시점에 pubDate가 지난 글만 노출됨. 따라서 특정 시각에 글을 노출하려면 그 시각 이후에 push해야 함.
 
 ### 애드센스 승인 유의사항
 - 이미지보다 텍스트(고품질 정보) 비중이 높아야 함
