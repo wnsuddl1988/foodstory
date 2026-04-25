@@ -20,6 +20,9 @@ importers:
       astro:
         specifier: ^6.1.8
         version: 6.1.8(@types/node@24.12.2)(rollup@4.60.2)
+      remark-gfm:
+        specifier: ^4.0.1
+        version: 4.0.1
       sharp:
         specifier: ^0.34.3
         version: 0.34.5
