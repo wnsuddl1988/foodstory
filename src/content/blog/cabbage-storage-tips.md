@@ -2,7 +2,7 @@
 title: '양배추 보관법 — 잘라도 오래 신선하게 유지하는 방법'
 description: '양배추를 통째로 또는 자른 후 신선하게 보관하는 방법을 정리했습니다. 양배추 냉장·냉동 보관법과 잘린 단면 관리법, 신선도 확인법까지.'
 pubDate: '2026-04-25T11:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/2518893/pexels-photo-2518893.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/257259/pexels-photo-257259.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -77,7 +77,7 @@ draft: false
 
 냉동 양배추는 **약 2~3개월** 보관 가능해요. 찌개나 국에 해동 없이 바로 넣어 사용할 수 있어요.
 
-![신선한 양배추](https://images.pexels.com/photos/5945755/pexels-photo-5945755.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![신선한 양배추](https://images.pexels.com/photos/14578006/pexels-photo-14578006.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 양배추 신선도 확인하는 방법
 

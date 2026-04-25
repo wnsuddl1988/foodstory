@@ -2,7 +2,7 @@
 title: '복숭아·자두 보관법 — 물러지지 않게 신선하게 두는 방법'
 description: '복숭아와 자두가 금방 물러지는 이유와 올바른 보관법을 정리했습니다. 냉장 vs 상온, 후숙법, 냉동 보관법까지 여름 과일 보관 총정리.'
 pubDate: '2026-04-25T23:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/414585/pexels-photo-414585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/6157041/pexels-photo-6157041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -79,7 +79,7 @@ draft: false
 
 냉동 자두는 **약 6개월** 보관 가능해요.
 
-![복숭아와 여름 과일](https://images.pexels.com/photos/1128978/pexels-photo-1128978.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![신선한 자두](https://images.pexels.com/photos/7440388/pexels-photo-7440388.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 복숭아·자두 신선도 확인법
 

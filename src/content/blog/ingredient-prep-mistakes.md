@@ -71,7 +71,7 @@ draft: false
 
 딸기를 씻을 때 꼭지를 먼저 제거하면 물이 과육 안으로 스며들어 수용성 비타민 C가 손실돼요. 반드시 꼭지를 달린 채로 씻은 뒤 먹기 직전에 꼭지를 제거하세요.
 
-![채소 손질](https://images.pexels.com/photos/6294261/pexels-photo-6294261.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![채소 손질](https://images.pexels.com/photos/2600204/pexels-photo-2600204.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 육류·해산물 손질 실수 바로잡기
 

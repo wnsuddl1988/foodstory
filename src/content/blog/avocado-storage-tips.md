@@ -75,7 +75,7 @@ draft: false
 
 자른 아보카도를 잘게 썬 양파와 함께 밀폐 용기에 보관하면, 양파에서 나오는 황화합물이 갈변을 억제해줘요. 맛에 영향을 줄 수 있으니 참고하세요.
 
-![아보카도 단면](https://images.pexels.com/photos/1656663/pexels-photo-1656663.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![아보카도 단면](https://images.pexels.com/photos/4144459/pexels-photo-4144459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 아보카도 냉동 보관
 

@@ -68,7 +68,7 @@ draft: false
 **냉동 후 해동하면 왜 무가 더 잘 익을까?**
 냉동 과정에서 무 세포 내 수분이 얼어 팽창하면서 세포벽이 손상돼요. 해동 후 이 부분이 부드러워져서 양념이 더 잘 배고 빨리 익어요. 무조림에는 오히려 냉동 무가 더 맛있다는 분들도 많아요.
 
-![무와 채소들](https://images.pexels.com/photos/7460469/pexels-photo-7460469.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![신선한 무](https://images.pexels.com/photos/7214623/pexels-photo-7214623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 겨울 무 vs 여름 무 보관 차이
 
