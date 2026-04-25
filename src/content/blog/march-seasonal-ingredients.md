@@ -1,7 +1,7 @@
 ---
 title: '3월 제철 식재료 총정리: 봄의 생기가 담긴 제철 음식'
 description: '3월에 제철을 맞는 식재료를 총정리했습니다. 냉이·쑥·달래·도다리 등 3월 제철 봄나물·해산물과 보관법, 봄 건강 식재료 정보 안내.'
-pubDate: '2026-04-30T07:00:00+09:00'
+pubDate: '2026-05-03T13:00:00+09:00'
 heroImage: 'https://images.pexels.com/photos/3987291/pexels-photo-3987291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---

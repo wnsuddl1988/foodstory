@@ -1,7 +1,7 @@
 ---
 title: '장아찌 보관법: 직접 만들어 오래오래 두고 먹는 방법'
 description: '장아찌를 오래 신선하게 보관하는 방법을 정리했습니다. 마늘·깻잎·무 장아찌 담그는 법, 냉장·실온 보관 기간, 상했는지 확인하는 방법까지 총정리.'
-pubDate: '2026-04-29T05:00:00+09:00'
+pubDate: '2026-05-02T15:00:00+09:00'
 heroImage: 'https://images.pexels.com/photos/6249004/pexels-photo-6249004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---

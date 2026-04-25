@@ -1,7 +1,7 @@
 ---
 title: '명절 음식 보관법: 차례음식·전·나물 오래 맛있게 두는 법'
 description: '명절 음식 보관법을 총정리했습니다. 전류·나물·조림·떡국·갈비찜 등 차례음식 냉장·냉동 보관법, 명절 후 음식 활용 레시피, 재사용 꿀팁까지 안내.'
-pubDate: '2026-05-01T01:00:00+09:00'
+pubDate: '2026-05-01T11:00:00+09:00'
 heroImage: 'https://images.pexels.com/photos/6249104/pexels-photo-6249104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---

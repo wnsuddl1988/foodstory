@@ -1,7 +1,7 @@
 ---
 title: '2월 제철 식재료 총정리: 봄을 준비하는 제철 식재료'
 description: '2월에 제철을 맞는 식재료를 총정리했습니다. 꼬막·딸기·한라봉·냉이 등 2월 제철 채소·과일·해산물과 보관법, 봄 준비 제철 정보 안내.'
-pubDate: '2026-04-30T05:00:00+09:00'
+pubDate: '2026-05-03T11:00:00+09:00'
 heroImage: 'https://images.pexels.com/photos/7194386/pexels-photo-7194386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---

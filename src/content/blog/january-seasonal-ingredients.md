@@ -1,7 +1,7 @@
 ---
 title: '1월 제철 식재료 총정리: 한겨울 영양 가득한 제철 음식'
 description: '1월에 제철을 맞는 식재료를 총정리했습니다. 황태·굴·꼬막·딸기 등 1월 제철 채소·과일·해산물과 보관법, 겨울 건강 식재료 정보 안내.'
-pubDate: '2026-04-30T03:00:00+09:00'
+pubDate: '2026-05-02T23:00:00+09:00'
 heroImage: 'https://images.pexels.com/photos/1484516/pexels-photo-1484516.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---

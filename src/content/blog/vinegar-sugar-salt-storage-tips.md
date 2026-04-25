@@ -1,7 +1,7 @@
 ---
 title: '식초·설탕·소금 보관법: 의외로 많이 틀리는 보관 상식'
 description: '식초, 설탕, 소금의 올바른 보관법을 정리했습니다. 설탕이 굳는 이유와 해결법, 소금 보관 주의사항, 식초 개봉 후 관리법까지 총정리.'
-pubDate: '2026-04-29T03:00:00+09:00'
+pubDate: '2026-05-02T13:00:00+09:00'
 heroImage: 'https://images.pexels.com/photos/5765884/pexels-photo-5765884.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---

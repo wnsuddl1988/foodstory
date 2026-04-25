@@ -1,7 +1,7 @@
 ---
 title: '키위·망고 보관법: 숙성 단계별로 관리하는 요령'
 description: '키위와 망고를 신선하게 오래 보관하는 방법을 정리했습니다. 덜 익은 것 숙성법, 냉장·냉동 보관법, 익힌 후 신선도 유지 팁까지 총정리.'
-pubDate: '2026-04-28T07:00:00+09:00'
+pubDate: '2026-05-01T23:00:00+09:00'
 heroImage: 'https://images.pexels.com/photos/2316466/pexels-photo-2316466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---

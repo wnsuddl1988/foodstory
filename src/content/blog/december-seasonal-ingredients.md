@@ -1,7 +1,7 @@
 ---
 title: '12월 제철 식재료 총정리: 겨울 추위를 이기는 제철 음식'
 description: '12월에 제철을 맞는 식재료를 총정리했습니다. 굴·과메기·방어·귤·시금치 등 12월 제철 채소·과일·해산물과 보관법, 겨울 보양식 정보 안내.'
-pubDate: '2026-04-30T01:00:00+09:00'
+pubDate: '2026-05-02T19:00:00+09:00'
 heroImage: 'https://images.pexels.com/photos/750062/pexels-photo-750062.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
