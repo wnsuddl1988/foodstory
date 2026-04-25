@@ -2,9 +2,12 @@ name: Scheduled Cloudflare Deploy
 
 on:
   schedule:
-    # 매시간 7분에 실행 (정각 회피 — GitHub Actions 정각 부하 집중 이슈 우회)
-    # UTC 00:07 = KST 09:07, UTC 01:07 = KST 10:07, ...
+    # 매시간 3회 분산 실행 — GitHub Actions cron은 best-effort라 스킵될 수 있어서
+    # 20분 간격으로 3개 등록, 하나가 누락돼도 나머지가 보완
+    # UTC 기준: :07, :27, :47 → KST 기준: 각각 +9h
     - cron: '7 * * * *'
+    - cron: '27 * * * *'
+    - cron: '47 * * * *'
   push:
     branches:
       - master
