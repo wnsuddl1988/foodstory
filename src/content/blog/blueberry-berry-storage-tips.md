@@ -2,7 +2,7 @@
 title: '블루베리·산딸기·체리 보관법 — 베리류 신선하게 오래 두는 방법'
 description: '블루베리·산딸기·체리 등 베리류 보관법을 정리했습니다. 씻으면 안 되는 이유, 냉장 보관 기간, 냉동 후에도 영양이 유지되는 이유까지 총정리.'
 pubDate: '2026-04-27T17:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/1397460/pexels-photo-1397460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/26151088/pexels-photo-26151088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -79,7 +79,6 @@ draft: false
 
 냉동 체리는 **약 6개월** 보관 가능해요. 타르트, 케이크, 잼, 스무디에 활용.
 
-![블루베리와 베리류](https://images.pexels.com/photos/1174714/pexels-photo-1174714.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 베리류 공통 보관 주의사항
 

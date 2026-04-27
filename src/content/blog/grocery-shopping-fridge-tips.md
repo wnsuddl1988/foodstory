@@ -98,7 +98,6 @@ draft: false
 
 이번 주에 만들 요리를 미리 정해두고, 그에 필요한 식재료만 목록에 추가하면 낭비가 크게 줄어요.
 
-![깔끔하게 정리된 냉장고](https://images.pexels.com/photos/3962296/pexels-photo-3962296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 냉장고에 남은 자투리 식재료 활용하는 방법
 

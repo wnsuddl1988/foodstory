@@ -2,7 +2,7 @@
 title: '대파·쪽파 보관법: 싱싱함을 오래 유지하는 실전 방법'
 description: '대파와 쪽파를 오래 신선하게 보관하는 방법을 총정리했습니다. 냉장·냉동 보관법부터 뿌리 활용법까지 실전 팁 모음.'
 pubDate: '2026-04-27T21:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/4033064/pexels-photo-4033064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/7392730/pexels-photo-7392730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
