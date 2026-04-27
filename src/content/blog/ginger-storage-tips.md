@@ -81,7 +81,7 @@ draft: false
 
 요리할 때 큐브 하나씩 꺼내 쓰면 돼요. 간편하고 낭비도 없어요.
 
-![생강은 냉동하면 오히려 더 잘 갈려서 편하게 쓸 수 있어요](https://images.pexels.com/photos/4199324/pexels-photo-4199324.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![생강은 냉동하면 오히려 더 잘 갈려서 편하게 쓸 수 있어요](https://images.pexels.com/photos/10899474/pexels-photo-10899474.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 생강 보관 시 주의사항
 
