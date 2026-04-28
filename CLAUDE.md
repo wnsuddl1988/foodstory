@@ -35,7 +35,7 @@ Astro 6 기반 정적 블로그. 파일 기반 라우팅과 Content Collections 
 ## 배포 구조
 
 - **GitHub → Cloudflare Pages** 자동 연동. `master` 브랜치에 push하면 즉시 빌드·배포.
-- **GitHub Actions cron**이 정기적으로 빈 커밋을 push해 Cloudflare 재빌드를 트리거함 → `pubDate`가 지난 예약 포스트가 자동 노출됨.
+- **GitHub Actions cron** (`.github/workflows/scheduled-deploy.yml`)이 매시 7분(`7 * * * *`)에 Cloudflare Deploy Hook(`CLOUDFLARE_DEPLOY_HOOK` secret)으로 POST 요청을 보내 재빌드를 트리거함 — git 커밋은 발생하지 않음.
 - Cloudflare는 정적 빌드 기반이라 "실시간 예약 발행" 아님. 빌드 시점에 `pubDate`가 지난 글만 노출됨.
 
 ---
