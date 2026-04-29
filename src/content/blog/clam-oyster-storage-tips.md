@@ -2,7 +2,6 @@
 title: '조개·굴 보관법: 해감부터 냉동까지 실수 없이'
 description: '조개와 굴을 신선하게 오래 보관하는 방법을 정리했습니다. 조개 해감법, 냉장·냉동 보관, 굴 신선도 확인법과 올바른 보관 요령 총정리.'
 pubDate: '2026-04-28T13:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/3498748/pexels-photo-3498748.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -96,8 +95,6 @@ draft: false
 4. 굳으면 지퍼백에 옮겨요.
 
 **1~2개월** 보관 가능해요. 굴국, 굴전, 굴무침 등 열이 가해지는 요리에 활용해요.
-
-![조개는 해감 후 바로 요리하거나 삶아서 냉동해두면 오래 맛있게 먹을 수 있어요](https://images.pexels.com/photos/3992199/pexels-photo-3992199.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 안전하게 먹는 법
 

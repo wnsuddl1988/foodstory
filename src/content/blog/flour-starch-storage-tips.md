@@ -2,7 +2,6 @@
 title: '밀가루·전분 보관법: 벌레 없이 습기 없이 오래 쓰는 법'
 description: '밀가루와 전분을 오래 신선하게 보관하는 방법을 정리했습니다. 밀가루 벌레 예방법, 습기 차단 보관, 개봉 후 유통기한 관리법 총정리.'
 pubDate: '2026-04-28T21:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/6605820/pexels-photo-6605820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -73,8 +72,6 @@ draft: false
 ### 구입 후 즉시 냉동 처리
 
 벌레 알이 이미 섞여 있을 수 있어요. 구입 후 지퍼백에 넣어 **2주간 냉동**하면 알이나 유충이 죽어요. 이후 꺼내서 밀폐 용기에 옮겨 담으면 벌레 걱정 없이 쓸 수 있어요.
-
-![밀가루는 밀폐 용기에 담아 서늘하고 건조한 곳에 보관하는 게 핵심이에요](https://images.pexels.com/photos/3020919/pexels-photo-3020919.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 전분(녹말) 보관법
 

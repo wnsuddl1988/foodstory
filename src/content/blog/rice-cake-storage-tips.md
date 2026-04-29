@@ -2,7 +2,6 @@
 title: '떡 보관법: 굳지 않게 냉동하고 맛있게 해동하는 방법'
 description: '떡을 신선하게 오래 보관하는 방법을 정리했습니다. 떡 굳는 이유, 냉장·냉동 보관법, 맛있게 해동하는 방법과 종류별 보관 팁까지 총정리.'
 pubDate: '2026-04-28T17:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/6248997/pexels-photo-6248997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -83,8 +82,6 @@ draft: false
 3. 랩을 씌우고 30초씩 돌리며 확인해요.
 
 빠르지만 가장자리가 고무처럼 질겨질 수 있어서 주의해야 해요. 가능하면 찜기 방법을 추천해요.
-
-![떡은 하나씩 랩에 싸서 냉동하면 몇 달이 지나도 쫄깃한 맛을 유지할 수 있어요](https://images.pexels.com/photos/5410400/pexels-photo-5410400.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 종류별 떡 보관 팁
 

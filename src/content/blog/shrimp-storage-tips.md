@@ -75,8 +75,6 @@ draft: false
 
 냉동 후 새우가 얼음 안에 보존되어 산화가 억제돼요. **신선도 유지 면에서 최고** 방법이에요.
 
-![새우는 손질 후 낱개 냉동해두면 요리할 때 바로 꺼내 써서 편리해요](https://images.pexels.com/photos/725999/pexels-photo-725999.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
-
 ## 냉동 새우 올바른 해동법
 
 냉동 새우를 잘못 해동하면 식감이 퍽퍽해지고 육즙이 빠져나가요.

@@ -74,8 +74,6 @@ draft: false
 
 먹을 때는 오븐 180°C에서 5~7분 구우면 바삭하게 살아나요.
 
-![빵은 종류에 따라 보관 방법이 달라요. 대부분의 빵은 냉동이 최선이에요](https://images.pexels.com/photos/1565982/pexels-photo-1565982.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
-
 ## 단팥빵·소보로·크림빵 보관법
 
 속재료에 따라 보관 기간이 달라요.
