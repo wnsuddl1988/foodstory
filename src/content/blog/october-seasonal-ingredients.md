@@ -2,7 +2,7 @@
 title: '10월 제철 식재료 총정리: 풍성한 가을 수확의 계절'
 description: '10월에 제철을 맞는 식재료를 총정리했습니다. 사과·밤·고구마·버섯·낙지 등 10월 제철 채소·과일·해산물과 보관법 안내.'
 pubDate: '2026-04-29T21:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/1456126/pexels-photo-1456126.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

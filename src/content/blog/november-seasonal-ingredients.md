@@ -2,7 +2,7 @@
 title: '11월 제철 식재료 총정리: 초겨울 면역력 높이는 제철 음식'
 description: '11월에 제철을 맞는 식재료를 총정리했습니다. 김장배추·굴·무·유자 등 11월 제철 채소·과일·해산물과 보관법, 면역력 높이는 식재료 정보 안내.'
 pubDate: '2026-04-29T23:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/4551774/pexels-photo-4551774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/219794/pexels-photo-219794.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

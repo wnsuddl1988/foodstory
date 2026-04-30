@@ -2,7 +2,7 @@
 title: '냉장고 없이 식재료 보관하는 법: 실온 보관의 모든 것'
 description: '냉장고가 없어도 식재료를 오래 신선하게 보관하는 방법을 정리했습니다. 채소·과일·곡물 상온 보관법, 전통 보관법, 임시 냉각 방법까지 총정리.'
 pubDate: '2026-04-30T15:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/5737468/pexels-photo-5737468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/4440173/pexels-photo-4440173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

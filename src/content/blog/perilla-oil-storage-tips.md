@@ -2,7 +2,7 @@
 title: '들기름 보관법: 산패 없이 고소한 맛 오래 유지하는 법'
 description: '들기름을 산패 없이 오래 신선하게 보관하는 방법을 정리했습니다. 들기름이 빨리 상하는 이유, 올바른 보관 용기와 장소, 산패 여부 확인법까지 총정리.'
 pubDate: '2026-04-29T15:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/5695905/pexels-photo-5695905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/4202927/pexels-photo-4202927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

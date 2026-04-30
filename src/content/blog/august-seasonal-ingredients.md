@@ -2,7 +2,7 @@
 title: '8월 제철 식재료 총정리: 복더위에 먹어야 할 제철 음식'
 description: '8월에 제철을 맞는 식재료를 총정리했습니다. 여름 복더위를 이기는 수박·참외·옥수수·복숭아 등 8월 제철 채소·과일·해산물과 보관법 안내.'
 pubDate: '2026-04-29T17:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/5677721/pexels-photo-5677721.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

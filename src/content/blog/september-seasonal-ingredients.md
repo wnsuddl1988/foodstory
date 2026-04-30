@@ -2,7 +2,7 @@
 title: '9월 제철 식재료 총정리: 가을의 시작을 알리는 제철 음식'
 description: '9월에 제철을 맞는 식재료를 총정리했습니다. 햅쌀·배·고구마·전어 등 9월 제철 채소·과일·해산물과 보관법, 맛있게 즐기는 방법 안내.'
 pubDate: '2026-04-29T19:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/4551779/pexels-photo-4551779.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/5750796/pexels-photo-5750796.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
