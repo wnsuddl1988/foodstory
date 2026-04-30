@@ -2,7 +2,7 @@
 title: '생강 보관법: 냉장·냉동으로 6개월 이상 신선하게 쓰는 법'
 description: '생강을 오래 보관하는 방법을 총정리했습니다. 통생강 냉장 보관, 냉동 생강편 만들기, 생강즙 보관까지 알아두면 편한 생강 관리법.'
 pubDate: '2026-04-27T23:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/161556/ginger-ginger-root-food-161556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/3987360/pexels-photo-3987360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

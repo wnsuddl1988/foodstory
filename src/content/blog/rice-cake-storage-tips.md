@@ -2,7 +2,7 @@
 title: '떡 보관법: 굳지 않게 냉동하고 맛있게 해동하는 방법'
 description: '떡을 신선하게 오래 보관하는 방법을 정리했습니다. 떡 굳는 이유, 냉장·냉동 보관법, 맛있게 해동하는 방법과 종류별 보관 팁까지 총정리.'
 pubDate: '2026-04-28T17:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/6613054/pexels-photo-6613054.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/4110255/pexels-photo-4110255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
