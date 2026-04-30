@@ -2,7 +2,7 @@
 title: '식재료 신선도 확인법: 장볼 때 꼭 알아야 할 선별 요령'
 description: '식재료를 구입할 때 신선도를 확인하는 방법을 정리했습니다. 채소·과일·육류·해산물·계란 등 식재료별 신선도 확인 포인트와 선별 요령 총정리.'
 pubDate: '2026-04-30T13:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/4202926/pexels-photo-4202926.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/3987358/pexels-photo-3987358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
