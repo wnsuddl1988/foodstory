@@ -2,7 +2,7 @@
 title: '여름 과일 신선도 유지법: 참외·수박·복숭아 관리 완벽 가이드'
 description: '여름 과일을 신선하게 오래 유지하는 방법을 정리했습니다. 수박·참외·복숭아·포도 보관법, 잘라둔 과일 관리, 과숙 과일 활용 팁까지 총정리.'
 pubDate: '2026-04-30T11:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/4098420/pexels-photo-4098420.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -90,7 +90,7 @@ draft: false
 
 포도알을 송이에서 하나씩 떼어 낱개 냉동하면 과일 아이스크림처럼 즐길 수 있어요. 해동하면 물러지니 냉동 상태 그대로 먹어요.
 
-![여름 과일은 씻지 않고 개별 포장해서 냉장 보관하는 게 신선도를 오래 유지하는 핵심이에요](https://images.pexels.com/photos/1638522/pexels-photo-1638522.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![여름 과일은 씻지 않고 개별 포장해서 냉장 보관하는 게 신선도를 오래 유지하는 핵심이에요](https://images.pexels.com/photos/12718277/pexels-photo-12718277.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 여름 과일 공통 주의사항
 

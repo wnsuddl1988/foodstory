@@ -82,7 +82,7 @@ draft: false
 
 **보관법:** 씻지 않고 냉장에서 3~5일.
 
-![2월은 꼬막·한라봉·딸기 등 겨울 마지막 제철과 봄나물의 시작이 공존하는 시기예요](https://images.pexels.com/photos/5620860/pexels-photo-5620860.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![2월은 꼬막·한라봉·딸기 등 겨울 마지막 제철과 봄나물의 시작이 공존하는 시기예요](https://images.pexels.com/photos/2317904/pexels-photo-2317904.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 2월 제철 식재료 맛있게 즐기기
 

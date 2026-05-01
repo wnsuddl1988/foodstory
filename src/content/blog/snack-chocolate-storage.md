@@ -2,7 +2,7 @@
 title: '과자·초콜릿 보관법 — 눅눅해지거나 흰 가루 생기지 않게 하는 법'
 description: '과자는 눅눅함이, 초콜릿은 흰 가루(블룸)가 문제입니다. 각각의 올바른 보관법과 복원 방법을 알아봅니다.'
 pubDate: '2026-05-12T21:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/4110088/pexels-photo-4110088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/5917419/pexels-photo-5917419.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

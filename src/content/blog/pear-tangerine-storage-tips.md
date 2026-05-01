@@ -72,7 +72,7 @@ draft: false
 
 **냉장 귤 먹기 30분 전에 꺼내두기**: 냉장고에서 막 꺼낸 귤은 너무 차가워서 단맛을 덜 느낄 수 있어요. 30분 정도 상온에 두면 단맛이 살아나요.
 
-![배와 귤은 개별 포장해서 서로 닿지 않게 보관하는 게 핵심이에요](https://images.pexels.com/photos/3914796/pexels-photo-3914796.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![배와 귤은 개별 포장해서 서로 닿지 않게 보관하는 게 핵심이에요](https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 배·귤 보관 시 공통 주의사항
 
