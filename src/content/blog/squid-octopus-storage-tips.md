@@ -2,7 +2,7 @@
 title: '오징어·문어 보관법: 손질부터 냉동까지 한 번에'
 description: '오징어와 문어를 신선하게 오래 보관하는 방법을 정리했습니다. 손질법, 냉장·냉동 보관 요령, 올바른 해동법까지 오징어·문어 관리 완벽 가이드.'
 pubDate: '2026-04-28T11:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/4110362/pexels-photo-4110362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/821365/pexels-photo-821365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

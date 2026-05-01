@@ -2,7 +2,7 @@
 title: '봄나물·두릅 보관법: 향과 영양 살리며 신선하게 두는 법'
 description: '봄나물과 두릅을 신선하게 오래 보관하는 방법을 정리했습니다. 냉이·달래·쑥·두릅 보관법, 데쳐서 냉동하는 방법, 향 살리는 보관 팁까지 총정리.'
 pubDate: '2026-04-30T09:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/5620860/pexels-photo-5620860.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/2095569/pexels-photo-2095569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -82,7 +82,7 @@ draft: false
 
 **2~3개월** 보관. 쑥국, 쑥떡에 그대로 사용해요.
 
-![봄나물은 데쳐서 물기를 꼭 짠 후 소분 냉동하면 2~3개월은 거뜬히 즐길 수 있어요](https://images.pexels.com/photos/3987360/pexels-photo-3987360.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![봄나물은 데쳐서 물기를 꼭 짠 후 소분 냉동하면 2~3개월은 거뜬히 즐길 수 있어요](https://images.pexels.com/photos/2295428/pexels-photo-2295428.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 두릅 보관법
 

@@ -2,7 +2,7 @@
 title: '옥수수 보관법 — 수확 후 단맛 지키는 핵심 노하우'
 description: '옥수수는 수확 직후부터 당분이 전분으로 바뀌기 시작합니다. 냉장·냉동·삶기 후 보관법까지 단계별로 정리했습니다.'
 pubDate: '2026-05-01T09:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/32706359/pexels-photo-32706359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/6179193/pexels-photo-6179193.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

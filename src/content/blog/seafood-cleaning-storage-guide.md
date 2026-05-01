@@ -2,7 +2,7 @@
 title: '해산물 손질·보관 완벽 가이드: 생선·새우·조개 신선하게 두는 법'
 description: '해산물 종류별 손질법과 보관법을 정리했습니다. 생선·새우·오징어·조개류 냉장·냉동 보관법, 손질 후 냉동 방법, 해산물 신선도 유지 꿀팁까지 총정리.'
 pubDate: '2026-04-30T21:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/3296269/pexels-photo-3296269.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/4050887/pexels-photo-4050887.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

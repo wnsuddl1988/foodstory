@@ -2,7 +2,7 @@
 title: '들기름 보관법: 산패 없이 고소한 맛 오래 유지하는 법'
 description: '들기름을 산패 없이 오래 신선하게 보관하는 방법을 정리했습니다. 들기름이 빨리 상하는 이유, 올바른 보관 용기와 장소, 산패 여부 확인법까지 총정리.'
 pubDate: '2026-04-29T15:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/4202927/pexels-photo-4202927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/6280143/pexels-photo-6280143.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -63,7 +63,7 @@ draft: false
 
 **6개월~1년** 보관 가능해요. 냉동 중에는 산패가 거의 일어나지 않아요. 꺼내서 실온에 두면 해동돼요.
 
-![들기름은 짙은 색 유리병에 담아 냉장 보관하고, 뚜껑을 꼭 닫아 산소 접촉을 최소화해야 해요](https://images.pexels.com/photos/4202927/pexels-photo-4202927.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![들기름은 짙은 색 유리병에 담아 냉장 보관하고, 뚜껑을 꼭 닫아 산소 접촉을 최소화해야 해요](https://images.pexels.com/photos/12737833/pexels-photo-12737833.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 들기름 산패 여부 확인법
 
