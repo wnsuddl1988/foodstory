@@ -2,7 +2,7 @@
 title: '냉동 고기 올바른 해동법: 맛과 안전 모두 잡는 방법'
 description: '냉동 고기를 올바르게 해동하는 방법을 정리했습니다. 냉장 해동, 흐르는 물 해동, 전자레인지 해동 비교와 절대 하면 안 되는 해동 실수까지 총정리.'
 pubDate: '2026-04-28T15:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/5732448/pexels-photo-5732448.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/36319687/pexels-photo-36319687.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

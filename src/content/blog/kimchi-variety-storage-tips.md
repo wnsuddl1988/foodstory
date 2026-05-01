@@ -2,7 +2,7 @@
 title: '김치 종류별 보관법: 배추김치부터 깍두기까지 맛 살리는 법'
 description: '김치 종류별 최적 보관법을 정리했습니다. 배추김치·깍두기·열무김치·오이소박이 등 종류별 보관 기간, 냉장·냉동 보관법, 익은 김치 활용법까지 총정리.'
 pubDate: '2026-04-30T19:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/3621519/pexels-photo-3621519.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/6823262/pexels-photo-6823262.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

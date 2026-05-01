@@ -2,7 +2,7 @@
 title: '봄나물·두릅 보관법: 향과 영양 살리며 신선하게 두는 법'
 description: '봄나물과 두릅을 신선하게 오래 보관하는 방법을 정리했습니다. 냉이·달래·쑥·두릅 보관법, 데쳐서 냉동하는 방법, 향 살리는 보관 팁까지 총정리.'
 pubDate: '2026-04-30T09:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/2095569/pexels-photo-2095569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/24387660/pexels-photo-24387660.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

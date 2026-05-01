@@ -2,7 +2,7 @@
 title: '반찬 냉동 보관 완벽 가이드: 맛 변하지 않게 냉동하는 법'
 description: '반찬을 냉동 보관하는 방법을 종류별로 정리했습니다. 나물·볶음·조림·전·찌개 등 냉동 가능한 반찬과 불가능한 반찬 구분, 맛 살리는 해동법까지 총정리.'
 pubDate: '2026-04-30T17:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/5938216/pexels-photo-5938216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/36872900/pexels-photo-36872900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

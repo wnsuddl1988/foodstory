@@ -2,7 +2,7 @@
 title: '즉석식품·레토르트 보관법: 유통기한과 개봉 후 관리 완전 정리'
 description: '즉석식품과 레토르트 식품 보관법을 정리했습니다. 컵라면·즉석밥·레토르트 카레·냉동식품 보관법, 개봉 후 처리, 유통기한 관리법까지 총정리.'
 pubDate: '2026-04-30T23:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/5474284/pexels-photo-5474284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/29514833/pexels-photo-29514833.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
