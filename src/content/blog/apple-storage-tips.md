@@ -2,7 +2,7 @@
 title: '사과 보관법: 에틸렌 가스 알면 훨씬 오래 신선하게'
 description: '사과를 오래 신선하게 보관하는 방법을 정리했습니다. 에틸렌 가스 특성, 냉장 보관 요령, 다른 과일과 함께 두면 안 되는 이유까지 총정리.'
 pubDate: '2026-05-01T15:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/3962287/pexels-photo-3962287.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/66636/pexels-photo-66636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

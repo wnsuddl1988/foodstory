@@ -2,7 +2,7 @@
 title: '요구르트·발효식품 보관법: 유산균 살리는 올바른 방법'
 description: '요구르트와 발효식품을 신선하게 오래 보관하는 방법을 정리했습니다. 유산균을 살리는 보관 온도, 낫토·된장·청국장 보관법, 개봉 후 관리까지 총정리.'
 pubDate: '2026-05-02T11:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/6280171/pexels-photo-6280171.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/3962286/pexels-photo-3962286.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

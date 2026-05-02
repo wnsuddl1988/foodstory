@@ -2,7 +2,7 @@
 title: '음식이 상하는 이유와 방지법: 식품 변질 원인부터 예방까지'
 description: '음식이 상하는 원인과 방지법을 정리했습니다. 세균·곰팡이·산화·효소 반응 등 변질 원인, 온도·습도·공기 관리법, 식품별 신선도 유지 핵심 원칙 총정리.'
 pubDate: '2026-05-01T13:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/5632618/pexels-photo-5632618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/3838670/pexels-photo-3838670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

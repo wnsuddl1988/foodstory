@@ -2,7 +2,7 @@
 title: '배·귤 보관법: 수분 날리지 않고 달콤함 유지하는 방법'
 description: '배와 귤을 신선하게 오래 보관하는 방법을 정리했습니다. 배 냉장 보관, 귤 상온·냉장 차이, 종류별 보관 기간 총정리.'
 pubDate: '2026-05-01T17:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/8728403/pexels-photo-8728403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/159575/pexels-photo-159575.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

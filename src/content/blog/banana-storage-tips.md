@@ -2,7 +2,7 @@
 title: '바나나 보관법: 검게 변하지 않고 오래 신선하게 먹는 법'
 description: '바나나가 빨리 검게 변하는 이유와 신선하게 오래 보관하는 방법을 정리했습니다. 상온·냉장·냉동 보관법과 과숙된 바나나 활용 팁까지 총정리.'
 pubDate: '2026-05-01T19:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/3850596/pexels-photo-3850596.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/349758/hummingbird-bird-birds-349758.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
