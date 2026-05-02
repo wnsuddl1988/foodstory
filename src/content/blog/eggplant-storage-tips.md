@@ -2,7 +2,7 @@
 title: '가지 보관법 — 냉장 보관이 오히려 독이 되는 이유'
 description: '가지는 냉장 보관하면 저온 장해로 빨리 상합니다. 가지를 신선하게 오래 보관하는 올바른 방법을 알아봅니다.'
 pubDate: '2026-05-01T21:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/2290742/pexels-photo-2290742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/3890170/pexels-photo-3890170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -84,7 +84,7 @@ draft: false
 **보관 기간:** 1개월 이내
 **활용:** 해동 후 된장찌개, 파스타, 볶음 요리에 활용
 
-![가지 요리](https://images.pexels.com/photos/5848465/pexels-photo-5848465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![신선한 가지](https://images.pexels.com/photos/3890170/pexels-photo-3890170.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 가지 손질 후 바로 갈변되는 이유
 

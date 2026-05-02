@@ -119,4 +119,6 @@ draft: false
 | 자른 연근 | 식초물에 담가 냉장 | 3~5일 |
 | 데쳐서 냉동 | 지퍼백 냉동 | 1~2개월 |
 
+![신선한 연근](https://images.pexels.com/photos/2518895/pexels-photo-2518895.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+
 연근은 갈변이 빠른 식재료지만 식초물 하나면 훨씬 오래 신선하게 보관할 수 있습니다. 식초물에 담그는 습관만 들여도 연근 요리가 훨씬 수월해질 거예요!

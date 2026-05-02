@@ -2,7 +2,7 @@
 title: '사과 보관법: 에틸렌 가스 알면 훨씬 오래 신선하게'
 description: '사과를 오래 신선하게 보관하는 방법을 정리했습니다. 에틸렌 가스 특성, 냉장 보관 요령, 다른 과일과 함께 두면 안 되는 이유까지 총정리.'
 pubDate: '2026-05-01T15:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/1510392/pexels-photo-1510392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/3962287/pexels-photo-3962287.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -69,7 +69,7 @@ draft: false
 
 **3개월** 정도 보관 가능하고, 스무디·잼·조림에 활용해요.
 
-![사과는 에틸렌 가스를 많이 내뿜어서 다른 식재료와 분리 보관이 중요해요](https://images.pexels.com/photos/10899598/pexels-photo-10899598.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![사과는 에틸렌 가스를 많이 내뿜어서 다른 식재료와 분리 보관이 중요해요](https://images.pexels.com/photos/3962287/pexels-photo-3962287.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 사과 갈변 방지 방법
 

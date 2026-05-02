@@ -2,7 +2,7 @@
 title: '12월 제철 식재료 총정리: 겨울 추위를 이기는 제철 음식'
 description: '12월에 제철을 맞는 식재료를 총정리했습니다. 굴·과메기·방어·귤·시금치 등 12월 제철 채소·과일·해산물과 보관법, 겨울 보양식 정보 안내.'
 pubDate: '2026-05-02T19:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/750062/pexels-photo-750062.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/5632618/pexels-photo-5632618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -80,7 +80,7 @@ draft: false
 
 **보관법:** 완전 건조된 시래기는 서늘한 상온에서 6개월~1년.
 
-![12월은 굴·과메기·방어 등 겨울 해산물과 귤·시금치가 가장 맛있는 시기예요](https://images.pexels.com/photos/10375841/pexels-photo-10375841.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![12월은 굴·과메기·방어 등 겨울 해산물과 귤·시금치가 가장 맛있는 시기예요](https://images.pexels.com/photos/3819857/pexels-photo-3819857.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 12월 따뜻하게 즐기는 요리
 

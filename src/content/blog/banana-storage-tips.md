@@ -2,7 +2,7 @@
 title: '바나나 보관법: 검게 변하지 않고 오래 신선하게 먹는 법'
 description: '바나나가 빨리 검게 변하는 이유와 신선하게 오래 보관하는 방법을 정리했습니다. 상온·냉장·냉동 보관법과 과숙된 바나나 활용 팁까지 총정리.'
 pubDate: '2026-05-01T19:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/209206/pexels-photo-209206.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/3850596/pexels-photo-3850596.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -56,7 +56,7 @@ draft: false
 
 완전히 익지 않은 바나나를 냉장고에 넣으면 숙성이 멈춰버려서 단맛이 제대로 안 들 수 있어요.
 
-![바나나는 줄기 부분을 랩으로 감싸면 에틸렌 가스 방출을 줄여 더 오래 신선하게 유지할 수 있어요](https://images.pexels.com/photos/1093038/pexels-photo-1093038.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![바나나는 줄기 부분을 랩으로 감싸면 에틸렌 가스 방출을 줄여 더 오래 신선하게 유지할 수 있어요](https://images.pexels.com/photos/5632618/pexels-photo-5632618.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 바나나 냉동 보관법 (장기 보관)
 

@@ -2,7 +2,7 @@
 title: '명절 음식 보관법: 차례음식·전·나물 오래 맛있게 두는 법'
 description: '명절 음식 보관법을 총정리했습니다. 전류·나물·조림·떡국·갈비찜 등 차례음식 냉장·냉동 보관법, 명절 후 음식 활용 레시피, 재사용 꿀팁까지 안내.'
 pubDate: '2026-05-01T11:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/6249104/pexels-photo-6249104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/1410235/pexels-photo-1410235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -124,7 +124,7 @@ draft: false
 - 냉장 보관은 굳어버리므로 냉동을 권장해요.
 - 해동 시 전자레인지에 젖은 키친타올을 씌워 짧게 데우거나 물에 살짝 삶아요.
 
-![명절 음식은 종류별로 분리해서 냉동 보관하면 2~3개월간 맛있게 즐길 수 있어요](https://images.pexels.com/photos/5765880/pexels-photo-5765880.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![명절 음식은 종류별로 분리해서 냉동 보관하면 2~3개월간 맛있게 즐길 수 있어요](https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 잡채 보관법
 

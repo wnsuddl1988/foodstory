@@ -80,7 +80,7 @@ draft: false
 
 **보관법:** 씻지 않고 키친타올 깐 용기에 넣어 냉장에서 2~3일.
 
-![1월은 꼬막·황태·딸기 등 한겨울의 특별한 제철 식재료가 가득한 시기예요](https://images.pexels.com/photos/2912621/pexels-photo-2912621.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![1월은 꼬막·황태·딸기 등 한겨울의 특별한 제철 식재료가 가득한 시기예요](https://images.pexels.com/photos/5632618/pexels-photo-5632618.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 1월 겨울 건강 식재료 조합
 

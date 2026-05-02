@@ -2,7 +2,7 @@
 title: '아스파라거스 보관법 — 세워서 보관해야 하는 진짜 이유'
 description: '아스파라거스는 세워서 보관하는 게 핵심입니다. 냉장·냉동 보관법과 선도 유지 팁을 정리했습니다.'
 pubDate: '2026-05-02T09:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/1118179/pexels-photo-1118179.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/5632613/pexels-photo-5632613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -78,7 +78,7 @@ draft: false
 
 냉장 해동이 필요한 경우는 샐러드처럼 날것에 가까운 식감이 필요할 때인데, 냉동 후에는 식감이 달라지므로 샐러드보다는 가열 요리에 활용하는 게 맛있습니다.
 
-![아스파라거스](https://images.pexels.com/photos/4033028/pexels-photo-4033028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![신선한 아스파라거스](https://images.pexels.com/photos/5632613/pexels-photo-5632613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 잘린 밑동 버리지 마세요
 

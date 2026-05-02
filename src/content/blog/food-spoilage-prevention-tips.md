@@ -2,7 +2,7 @@
 title: '음식이 상하는 이유와 방지법: 식품 변질 원인부터 예방까지'
 description: '음식이 상하는 원인과 방지법을 정리했습니다. 세균·곰팡이·산화·효소 반응 등 변질 원인, 온도·습도·공기 관리법, 식품별 신선도 유지 핵심 원칙 총정리.'
 pubDate: '2026-05-01T13:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/4252137/pexels-photo-4252137.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/5632618/pexels-photo-5632618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -88,7 +88,7 @@ draft: false
 - 냉장 (0~4°C): 세균 증식을 억제하지만 완전히 막지는 못해요. 시간이 지나면 상해요.
 - 냉동 (-18°C 이하): 세균 증식이 거의 완전히 멈춰요. 하지만 품질(맛, 식감)은 서서히 저하될 수 있어요.
 
-![음식이 상하는 주원인은 세균 증식이에요. 온도·습도·공기 관리로 세균 번식을 억제하는 게 신선도 유지의 핵심이에요](https://images.pexels.com/photos/4110401/pexels-photo-4110401.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![음식이 상하는 주원인은 세균 증식이에요. 온도·습도·공기 관리로 세균 번식을 억제하는 게 신선도 유지의 핵심이에요](https://images.pexels.com/photos/3962286/pexels-photo-3962286.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 음식 변질 방지 핵심 전략
 

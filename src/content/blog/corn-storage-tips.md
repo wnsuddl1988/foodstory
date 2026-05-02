@@ -62,7 +62,7 @@ draft: false
 
 **보관 기간:** 3~6개월
 
-![분리한 옥수수 낟알](https://images.pexels.com/photos/5029646/pexels-photo-5029646.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![분리한 옥수수 낟알](https://images.pexels.com/photos/2300625/pexels-photo-2300625.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 삶은 옥수수 보관법
 

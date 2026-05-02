@@ -2,7 +2,7 @@
 title: '키위·망고 보관법: 숙성 단계별로 관리하는 요령'
 description: '키위와 망고를 신선하게 오래 보관하는 방법을 정리했습니다. 덜 익은 것 숙성법, 냉장·냉동 보관법, 익힌 후 신선도 유지 팁까지 총정리.'
 pubDate: '2026-05-01T23:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/2316466/pexels-photo-2316466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/4728919/pexels-photo-4728919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -85,7 +85,7 @@ draft: false
 2. 쟁반에 펼쳐 낱개 냉동해요.
 3. 굳으면 지퍼백에 옮겨 **2~3개월** 보관해요.
 
-![키위와 망고는 숙성 정도에 따라 상온과 냉장 보관을 구분해서 사용해야 해요](https://images.pexels.com/photos/1291712/pexels-photo-1291712.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![키위와 망고는 숙성 정도에 따라 상온과 냉장 보관을 구분해서 사용해야 해요](https://images.pexels.com/photos/4728919/pexels-photo-4728919.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 키위·망고 공통 보관 주의사항
 

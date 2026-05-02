@@ -2,7 +2,7 @@
 title: '배·귤 보관법: 수분 날리지 않고 달콤함 유지하는 방법'
 description: '배와 귤을 신선하게 오래 보관하는 방법을 정리했습니다. 배 냉장 보관, 귤 상온·냉장 차이, 종류별 보관 기간 총정리.'
 pubDate: '2026-05-01T17:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/207085/pexels-photo-207085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/8728403/pexels-photo-8728403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -72,7 +72,7 @@ draft: false
 
 **냉장 귤 먹기 30분 전에 꺼내두기**: 냉장고에서 막 꺼낸 귤은 너무 차가워서 단맛을 덜 느낄 수 있어요. 30분 정도 상온에 두면 단맛이 살아나요.
 
-![배와 귤은 개별 포장해서 서로 닿지 않게 보관하는 게 핵심이에요](https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![배와 귤은 개별 포장해서 서로 닿지 않게 보관하는 게 핵심이에요](https://images.pexels.com/photos/8728403/pexels-photo-8728403.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 배·귤 보관 시 공통 주의사항
 

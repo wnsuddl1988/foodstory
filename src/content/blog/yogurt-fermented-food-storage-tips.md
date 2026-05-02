@@ -2,7 +2,7 @@
 title: '요구르트·발효식품 보관법: 유산균 살리는 올바른 방법'
 description: '요구르트와 발효식품을 신선하게 오래 보관하는 방법을 정리했습니다. 유산균을 살리는 보관 온도, 낫토·된장·청국장 보관법, 개봉 후 관리까지 총정리.'
 pubDate: '2026-05-02T11:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/773252/pexels-photo-773252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/6280171/pexels-photo-6280171.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -89,7 +89,7 @@ draft: false
 
 냉동 청국장은 해동 없이 바로 찌개에 넣어도 돼요.
 
-![발효식품은 낮은 온도에서 밀폐 보관하는 게 유산균을 살리는 핵심이에요](https://images.pexels.com/photos/3872373/pexels-photo-3872373.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![발효식품은 낮은 온도에서 밀폐 보관하는 게 유산균을 살리는 핵심이에요](https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 식혜·막걸리 보관법
 

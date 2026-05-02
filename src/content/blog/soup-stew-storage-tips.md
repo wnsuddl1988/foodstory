@@ -2,7 +2,7 @@
 title: '국·탕·찌개 보관법: 끓인 음식 상하지 않게 오래 두는 법'
 description: '국과 탕, 찌개를 오래 신선하게 보관하는 방법을 정리했습니다. 냉장·냉동 보관법, 상하지 않게 끓이는 습관, 다시 끓일 때 맛 살리는 팁까지 총정리.'
 pubDate: '2026-05-02T17:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/1731335/pexels-photo-1731335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/699953/pexels-photo-699953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -83,7 +83,7 @@ draft: false
 
 전자레인지 사용 시 지퍼백에서 꺼내 전자레인지 용기에 담고, 2~3분씩 데우면서 저어요.
 
-![국과 찌개는 빨리 식혀서 소분 보관하고, 오래 두려면 냉동이 최선이에요](https://images.pexels.com/photos/5410401/pexels-photo-5410401.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
+![국과 찌개는 빨리 식혀서 소분 보관하고, 오래 두려면 냉동이 최선이에요](https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?auto=compress&cs=tinysrgb&w=800&h=500&dpr=1)
 
 ## 상하지 않게 끓이는 습관
 
