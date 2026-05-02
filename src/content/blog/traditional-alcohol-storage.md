@@ -2,7 +2,7 @@
 title: '막걸리·청주·전통주 보관법 — 개봉 후 맛 변하지 않게 하는 법'
 description: '막걸리는 살아있는 발효 음료입니다. 개봉 전후 올바른 보관법과 탄산 유지, 맛 보존 팁을 알아봅니다.'
 pubDate: '2026-05-15T09:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/8953652/pexels-photo-8953652.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/34525379/pexels-photo-34525379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
@@ -88,7 +88,7 @@ draft: false
 
 청주와 약주도 개봉 후 시간이 지날수록 산화가 진행되어 향미가 약해지고 맛이 변합니다.
 
-![전통주](https://images.pexels.com/photos/36865958/pexels-photo-36865958.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![전통주](https://images.pexels.com/photos/35111002/pexels-photo-35111002.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## 전통 발효주 장기 숙성
 
