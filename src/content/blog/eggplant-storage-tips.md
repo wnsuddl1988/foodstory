@@ -2,7 +2,7 @@
 title: '가지 보관법 — 냉장 보관이 오히려 독이 되는 이유'
 description: '가지는 냉장 보관하면 저온 장해로 빨리 상합니다. 가지를 신선하게 오래 보관하는 올바른 방법을 알아봅니다.'
 pubDate: '2026-05-01T21:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/4039706/pexels-photo-4039706.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/2290742/pexels-photo-2290742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: '국·탕·찌개 보관법: 끓인 음식 상하지 않게 오래 두는 법'
 description: '국과 탕, 찌개를 오래 신선하게 보관하는 방법을 정리했습니다. 냉장·냉동 보관법, 상하지 않게 끓이는 습관, 다시 끓일 때 맛 살리는 팁까지 총정리.'
 pubDate: '2026-05-02T17:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/34822475/pexels-photo-34822475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 

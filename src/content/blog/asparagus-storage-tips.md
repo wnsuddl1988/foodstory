@@ -2,7 +2,7 @@
 title: '아스파라거스 보관법 — 세워서 보관해야 하는 진짜 이유'
 description: '아스파라거스는 세워서 보관하는 게 핵심입니다. 냉장·냉동 보관법과 선도 유지 팁을 정리했습니다.'
 pubDate: '2026-05-02T09:00:00+09:00'
-heroImage: 'https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+heroImage: 'https://images.pexels.com/photos/1118179/pexels-photo-1118179.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 draft: false
 ---
 
